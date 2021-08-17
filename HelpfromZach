@@ -1,0 +1,11 @@
+const data = [{question: "Whats your dogs name?"}, {answer: "Blu"}]
+
+const val = "empty console.log"
+
+console.log(val)
+
+console.log("Testing", data[0])
+
+setTimeout(() => {
+  console.clear()
+}, 10000)
