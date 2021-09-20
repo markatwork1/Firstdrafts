@@ -1,12 +1,25 @@
-# Meeting Notes
+<p align="center">
+  <a href="http://app.boardroom.info/BanklessDAO">
+    <img src="https://docs.synthetix.io/img/logos/synthetix_blue_logo.png" alt="Synthetix" width="400" />
+  </a>
+  <h1 align="center">Synthetix Weekly Update</h1>
+  <p align="center">
+    September 24, 2021
+  <br />
+  <a href="http://app.boardroom.info/BanklessDAO"><strong>View in the Portal »</strong></a>
+  <br />
+  </p>
+</p>
+
+### *New Weekly Update for Synthetix from Mark Priddy September 17th 2021 - September 24th 2021*
 
 ## Discord Announcement - Friday 9.17.21
 
-Kwenta and Synthetix community members can now apply for a role as an interim Kwenta Council Member (5 available roles) or a Kwenta treasuryDAO Member (3 available roles)
+* Kwenta and Synthetix community members can now apply for a role as an interim Kwenta Council Member (5 available roles) or a Kwenta treasuryDAO Member (3 available roles)
 
-The Spartan Council will select the candidates they feel are the best fit for these roles through the processes outlined in SIP-177 and SIP-178
+* The Spartan Council will select the candidates they feel are the best fit for these roles through the processes outlined in SIP-177 and SIP-178
 
-Functions of the Treasury Council will include: 
+### Functions of the Treasury Council will include: 
 
 - treasury management 
 
@@ -20,9 +33,9 @@ Functions of the Treasury Council will include:
 
 - issuing discretionary incentives.
 
-To learn more about the interim governing bodies and how you can apply, read this blog:
+To learn more about the interim governing bodies and how you can apply, [read here](https://blog.kwenta.io/kwenta-interim-council-and-treasurydao-ballet-boxes/)
 
-https://blog.kwenta.io/kwenta-interim-council-and-treasurydao-ballet-boxes/
+
 
 # Governance
 
@@ -44,6 +57,30 @@ Jackson is working on a way to open the test net to the public and working on th
 
 [SNXweave Spotify Weekly Recap](https://open.spotify.com/episode/6kKeKKOMF3DlHrqkdOSkFD)
 
+<p align="center">
+  <a href="http://app.boardroom.info/">
+    <img src="https://i.ibb.co/PFcchnQ/boardroom.png" alt="Boardroom Logo" width="450" />
+  </a>
+</p>
+
+<p align="center">
+	This report was prepared by the Governance Scribes Guild
+  <br />
+  <a href="http://boardroom.info/">Portal</a>
+  ·
+  <a href="https://discord.com/invite/tgrTFg9">Discord</a>
+  ·
+  <a href="https://boardroom.mirror.xyz/JHrN8nVy_J4C7Xzj37zoyPANg0ZnNszhWy9YOZHC0lM">Join the Scribes Program</a>
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/CEZ8WfuK8s">
+    <img src="https://img.shields.io/badge/Discord-Join-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://twitter.com/boardroom_info">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
 
 
 
