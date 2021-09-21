@@ -57,6 +57,8 @@ Jackson is working on a way to open the test net to the public and working on th
 
 [SNXweave Spotify Weekly Recap](https://open.spotify.com/episode/6kKeKKOMF3DlHrqkdOSkFD)
 
+[Interview with Mike from Synthetix and Finstreet](https://www.youtube.com/watch?v=f9wPLuI9MfA)
+
 <p align="center">
   <a href="http://app.boardroom.info/">
     <img src="https://i.ibb.co/PFcchnQ/boardroom.png" alt="Boardroom Logo" width="450" />
