@@ -19,6 +19,8 @@
 
 * The Spartan Council will select the candidates they feel are the best fit for these roles through the processes outlined in SIP-177 and SIP-178
 
+* Teleportr dex dApp interface updated, preview [here](https://teleportr-git-dev-clementbalestrat.vercel.app/) 
+
 ### Functions of the Treasury Council will include: 
 
 - treasury management 
