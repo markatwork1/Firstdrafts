@@ -11,7 +11,7 @@
   </p>
 </p>
 
-### *New Weekly Update for Uniswap from Mark Priddy September 24th 2021*
+### <p align="center"> *New Weekly Update for Uniswap from Mark Priddy - September 24th 2021*
 
 # Call Notes
 
@@ -55,6 +55,8 @@
 - Encouraging more liquidity providers migrate to L2 but there are no extra incentives at this time
 
 - Noticing significant arbitrage opportunities between exchanges on L2 when trading at very large volumes
+	
+- Alex Kroeger and Getty Hill discussion to add a 1 basis point fee option to V3 factory pool [here](https://gov.uniswap.org/t/discussion-adding-1-basis-point-fee-pools-in-v3/14216)
 
 - Liquidity is growing on Uniswap L2
 
