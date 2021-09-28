@@ -28,7 +28,7 @@
 
 
 
-# Governance
+## Governance
 
 - There is an existing call on all $TOKE holders and TokenReactor community members to vote or show support for $SNX's inclusion in the upcoming Collateralization of Reactors Event.
 
