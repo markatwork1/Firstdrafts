@@ -19,9 +19,9 @@
 
 [On Spotify](https://open.spotify.com/episode/4GqOLzoZtEXlQO0jN25oNW)
 
-- The Mirfak release was completed and Wezen went out this week
+- The Mirfak release was completed and Wezen went out this week.
 
-- All low-volume and inverse synths have officially been deprecated on L1
+- All low-volume and inverse synths have officially been deprecated on L1.
 
 
 
@@ -30,11 +30,32 @@
 
 # Governance
 
+- There is an existing call on all $TOKE holders and TokenReactor community members to vote or show support for $SNX's inclusion in the upcoming Collateralization of Reactors Event.
+
+- Voting begins on September 28th and will last for 7 days.
+
+- [Here's what this means for Synthetix](https://twitter.com/snxambassadors/status/1442539626724409357?s=20)
+
+- Read more about the Tokemark Collateralization Event [here](https://medium.com/tokemak/c-o-r-e-collateralization-of-reactors-event-2a2d5b2f8e70)
 
 ## Summary
 
+- As part of Cycle Zero of the Tokemak launch, there will be a one week voting period to select 5 out of a whitelist of 36 protocols in the Collateralization of Reactors Event.
 
+- 36 established projects are eligible to be voted in for the Reactor Event and Synthetix is one of them.
 
+<img src="https://pbs.twimg.com/media/FATt0lNWUAEDMO9?format=jpg&name=large">
+
+#### - Tokemak is designed to be primarily used by:
+ - **Liquidity providers and yield farmers**: any user can deposit single assets into the network to be utilized as liquidity
+ 
+ - **DAOs**: DAOs can harness Tokmak's liquidity flow in order to strengthen and direct liquidity for their project, offering an alternative to traditional liquidity mining
+ 
+ - **New DeFi project**: New projects will be able to inexpensively stand up their own token reactors and use the Tokemak's protocol controlled assets to generate healthy liquidity for their project from its inception
+ 
+ - **Market Makers**: MMs can take advantage of the network's store of assets in order to direct liquidity across various exchanges
+
+ - **Exchanges**: exchanges can also leverage TOKE's utility in order to gain access to deep liquidity to bolster their market depth
 
 ## Additional Research
 
