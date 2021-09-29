@@ -38,7 +38,18 @@
 
 - Read more about the Tokemark Collateralization Event [here](https://medium.com/tokemak/c-o-r-e-collateralization-of-reactors-event-2a2d5b2f8e70)
 
+- [Voting for the next Synthetix Governing Bodies](https://staking.synthetix.io/gov) expired EOD Wednesday 9.29.21
+
+- SIP - 185 and 184 were presented to Synthetix Community Governance. [Recording here](https://anchor.fm/synthetix/episodes/SD029---SIPs-184--185-e181hfk)
+
+  - SIP - 184 would introduce a dynamic fee that increases to neutralize frontrunning opportunities during market turbulence, then rapidly decays back to zero as prices stabilize.
+  
+  - SIP - 185 proposes moving away from using a debt ledger and the implementation of a debt shares token mechanism that allows the percentage of a staker’s debt to be calculated based on their number of shares. A staker’s percentage of the debt pool is their balance of debt shares divided by the total supply of all outstanding debt shares. Minting and burning sUSD debt updates the balance of debt shares issued.
+  
+
 ## Summary
+
+- Two SIPs were presented and discussed this week
 
 - As part of Cycle Zero of the Tokemak launch, there will be a one week voting period to select 5 out of a whitelist of 36 protocols in the Collateralization of Reactors Event.
 
@@ -58,6 +69,8 @@
  - **Exchanges**: exchanges can also leverage TOKE's utility in order to gain access to deep liquidity to bolster their market depth
 
 ## Additional Research
+
+- Read more about the most recent SIPs [185](https://sips.synthetix.io/sips/sip-185/) and [184](https://sips.synthetix.io/sips/sip-184/)
 
 
 <p align="center">
