@@ -11,7 +11,7 @@
   </p>
 </p>
 
-### *New Weekly Update for Synthetix from Mark Priddy September 27th 2021 - October 1st 2021*
+### <p align="center"> *New Weekly Update for Synthetix from Mark Priddy September 27th 2021 - October 1st 2021*
 
 ## Discord Announcement
 
