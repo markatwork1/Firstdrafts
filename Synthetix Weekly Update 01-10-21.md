@@ -34,7 +34,7 @@
 
 - Voting begins on September 28th and will last for 7 days.
 
-- [Here's what this means for Synthetix](https://twitter.com/snxambassadors/status/1442539626724409357?s=20)
+- Twitter Announcement - [Here's what this means for Synthetix](https://twitter.com/snxambassadors/status/1442539626724409357?s=20)
 
 - Read more about the Tokemark Collateralization Event [here](https://medium.com/tokemak/c-o-r-e-collateralization-of-reactors-event-2a2d5b2f8e70)
 
