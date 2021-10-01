@@ -15,6 +15,11 @@
 
 
  ## Discord Announcements 
+
+- The Rubic team has successfully finished the integration of Uniswap v3 into our platform. 
+- This integration will enable users to have better rates and find better liquidity sources directly at [Rubic.exchange](https://rubic.exchange/)
+- [More information here](https://cryptorubic.medium.com/uniswap-v3-is-now-live-at-rubic-exchange-717dadb6c76b)
+
   
 
 # Governance
