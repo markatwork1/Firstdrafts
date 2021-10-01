@@ -16,7 +16,7 @@
 
 ## Discord Announcements
 	
-- Last Week’s Weekly Recap Blog
+- [Last Week’s Weekly Recap Blog](https://snxweave.medium.com/snxweave-weekly-recap-f0a24674efb9)
 - On Spotify
 	
 - [Kain](https://twitter.com/kaiynne) from Synthetix and [Ohmzeus](https://twitter.com/ohmzeus) played a friendly chess game 10.1.21 via Discord
