@@ -4,14 +4,14 @@
   </a>
   <h1 align="center">Uniswap Weekly Update</h1>
   <p align="center">
-    October 1st, 2021
+    October 8th, 2021
   <br />
   <a href="http://app.boardroom.info/BanklessDAO"><strong>View in the Portal »</strong></a>
   <br />
   </p>
 </p>
 
-### <p align="center"> *New Weekly Update for Uniswap from Mark Priddy - October 1st 2021*
+### <p align="center"> *New Weekly Update for Uniswap from Mark Priddy - October 8th 2021*
 
 
  ## Discord Announcements 
