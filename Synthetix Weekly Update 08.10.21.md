@@ -20,8 +20,7 @@
 - [On Spotify](https://anchor.fm/snxweave)
 	
 - [Kain](https://twitter.com/kaiynne) from Synthetix and [Ohmzeus](https://twitter.com/ohmzeus) played a friendly chess game 10.1.21 via Discord
-
-Synthetix Weave here
+	
 
 #### The grantsDAO commissioned a Discord bot for stakers to automatically hedge their debt on centralized exchanges.
 
