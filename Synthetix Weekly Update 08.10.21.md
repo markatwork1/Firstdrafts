@@ -19,7 +19,7 @@
 - [Last Week’s Weekly Recap Blog](https://snxweave.medium.com/snxweave-weekly-recap-f0a24674efb9)
 - [On Spotify](https://anchor.fm/snxweave)
 	
-- [Kain](https://twitter.com/kaiynne) from Synthetix and [Ohmzeus](https://twitter.com/ohmzeus) played a friendly chess game 10.1.21 via Discord
+- [Kain](https://twitter.com/kaiynne) from Synthetix and [Ohmzeus](https://twitter.com/ohmzeus) played a friendly chess game 10.1.21 via Discord ❤️
 	
 
 #### The grantsDAO commissioned a Discord bot for stakers to automatically hedge their debt on centralized exchanges.
