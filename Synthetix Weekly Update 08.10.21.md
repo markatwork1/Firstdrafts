@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="http://app.boardroom.info/BanklessDAO">
-    <img src="https://docs.synthetix.io/img/logos/synthetix_blue_logo.png" alt="Synthetix" width="400" />
+    <img src="https://miro.medium.com/max/1400/1*V3K-Uu2va_r9p7O2p_FzMw.png" alt="Synthetix" width="400" />
   </a>
   <h1 align="center">Synthetix Weekly Update</h1>
   <p align="center">
@@ -20,6 +20,8 @@
 - [On Spotify](https://anchor.fm/snxweave)
 	
 - [Kain](https://twitter.com/kaiynne) from Synthetix and [Ohmzeus](https://twitter.com/ohmzeus) played a friendly chess game 10.1.21 via Discord ❤️
+	
+- **A New Voting Guide** was released for new Synthetix Community Members [here](https://medium.com/@akng105/a-guide-to-synthetix-voting-for-new-community-members-fa57d929b2ce)
 	
 
 #### The grantsDAO commissioned a Discord bot for stakers to automatically hedge their debt on centralized exchanges.
