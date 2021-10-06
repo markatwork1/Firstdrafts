@@ -35,31 +35,31 @@
 	
 ## Summary
 	
-- Discussing the proposal for Uniswap to sponsor the Permissionless Conference in Dallas for 500k
-
-https://gov.uniswap.org/t/proposal-uniswap-purchases-presenting-sponsorship-spot-at-permissionless-the-worlds-largest-defi-conference/14249
-
-More on Event - large conference focused on network - Miami https://app.hubspot.com/documents/4605099/view/251776995?accessId=c3ef87
-
-
-
-
-Agreed that this is a bit much compared to the usual 50k or 100k issued in hackathons
-
-Confirmed Uniswap already sponsors Uniswap and they are participating in the event
+### **Topic 1**
 	
-	
+- Discussing the proposal for Uniswap to sponsor the [Permissionless Conference in Miami for 500k](https://gov.uniswap.org/t/proposal-uniswap-purchases-presenting-sponsorship-spot-at-permissionless-the-worlds-largest-defi-conference/14249)
 
+
+
+- More on Event [here](https://app.hubspot.com/documents/4605099/view/251776995?accessId=c3ef87)
 	
+	- large conference focused on networking - Miami 
+
+- Agreed that this is a bit much compared to the usual 50k or 100k issued in hackathons
+
+- Confirmed Uniswap already sponsors Bankless and they are participating in the event
 	
 
+
+### **Topic 2**
+	
 - Moving forward, How does governance issue conference tickets fairly to participating member?
-
-- *As a reminder, Uniswap Grants and Uniswap Governance and separate decision making entities*
-
-- Possibly reworking the tier of rewards in the future for conference sponsorship proposals if the sponsorship will be rewarding the community members
-
-	- Airbayer from Bankless DAO will be presenting in the next community call
+	
+*As a reminder, Uniswap Grants and Uniswap Governance and separate decision making entities*
+	
+  - Possibly reworking the tier of rewards in the future for conference sponsorship proposals if the sponsorship will be rewarding the community members
+	
+Airbayer from Bankless DAO will be presenting in the next community call
 
 	
 	
