@@ -16,12 +16,16 @@
 
 ## Discord Announcements
 	
+[Last Week's Recap Blog](https://snxweave.medium.com/snxweave-weekly-recap-f0b35a2316f9)
 
+[On Spotify](https://open.spotify.com/episode/44F2wrMzTaJf1OdYJjdW88)
 
+- **Reminder that a New Voting Guide** was released for new Synthetix Community Members [here](https://medium.com/@akng105/a-guide-to-synthetix-voting-for-new-community-members-fa57d929b2ce)
 
+- Bankless show [available here](https://www.youtube.com/watch?v=zb68Vl7cE_M) covers Kwenta's transition out of Synthetix, tokenomics, governance, staking, as well as the upcoming competition
 
-
-
+- Early next week, shorting will be enabled on L2 with the Sargas release. 
+  - During this release there will be no downtime on L1, but there will be up to 3 hours of downtime on L2 and deposits to L2 will be frozen during that time. [See the official announcement here for details](https://blog.synthetix.io/the-sargas-release/)
 
 
 
@@ -29,6 +33,30 @@
 
 ## Governance
 
+- [SIP-135](https://sips.synthetix.io/sips/sip-135/) - L2 Shorting: This SIP brings shorting capabilities (that have been available on L1) to L2.
+
+>To maintain consistency between L1 and L2, this release will also include implementation of two SIP’s on L2 that have already been released previously on L1 ([SIP-174](https://sips.synthetix.io/sips/sip-174/) and [SIP-145](https://sips.synthetix.io/sips/sip-145/) in the [Mirfak release](https://blog.synthetix.io/the-mirfak-release/)).
+	
+
+#### Thales Information
+	
+	
+- Thales is working on being ready to rollout on L2 soon after the final OP regenesis.
+	
+- They are hosting a trading competition on mainnet to have some fun and harden their competition framework for more competitions they plan to host on L2.
+	
+- Please register [here](https://thales.market/markets/leaderboard) if you want to participate
+
+
+**Rewards pot is as follows:**
+
+- 25,000 THALES
+- 1,500 SNX (courtesy of treasury council)
+- 10,000 ZRX (courtesy of 0xDAO)
+
+- Handcraft and rare NFTs for best traders (https://opensea.io/collection/thales-market)
+
+  - The competition also includes some unique markets such as speculating on ETH/BTC market cap ratio (AKA the Flippening) and on the number of ETH burned, all served by Chainlink oracles built for Thales.
 
 
 
