@@ -24,8 +24,16 @@
 	
 ## Summary
 	
+[October 6th Discussion](https://gov.uniswap.org/t/uni-default-list/14407) to create proposal to refresh the Uniswap Default token list
+	
 
 
+[September 15th Discussion](https://gov.uniswap.org/t/proposal-to-refresh-the-uniswap-default-list/14178)
+
+
+- Currently Uniswap uses gemini 2 token list instead, that hasn’t been updated for half a year, nor gov have direct control over it, unlike with default one
+- Its time for the community to provide the protocol with an awesome token list it deserves that is curated in a decentralised and fair manner
+- Also Optimism and Arbitrum network lists are maintained by optimism ethereum and offchain labs accordingly
 
 
 ## Additional Research
