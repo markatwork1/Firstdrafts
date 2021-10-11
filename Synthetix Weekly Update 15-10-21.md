@@ -27,17 +27,6 @@
 - Early next week, shorting will be enabled on L2 with the Sargas release. 
   - During this release there will be no downtime on L1, but there will be up to 3 hours of downtime on L2 and deposits to L2 will be frozen during that time. [See the official announcement here for details](https://blog.synthetix.io/the-sargas-release/)
 
-
-
-
-
-## Governance
-
-- [SIP-135](https://sips.synthetix.io/sips/sip-135/) - L2 Shorting: This SIP brings shorting capabilities (that have been available on L1) to L2.
-
->To maintain consistency between L1 and L2, this release will also include implementation of two SIP’s on L2 that have already been released previously on L1 ([SIP-174](https://sips.synthetix.io/sips/sip-174/) and [SIP-145](https://sips.synthetix.io/sips/sip-145/) in the [Mirfak release](https://blog.synthetix.io/the-mirfak-release/)).
-	
-
 #### Thales Information
 	
 	
@@ -54,9 +43,28 @@
 - 1,500 SNX (courtesy of treasury council)
 - 10,000 ZRX (courtesy of 0xDAO)
 
-- Handcraft and rare NFTs for best traders (https://opensea.io/collection/thales-market)
+- [Thales Opensea Marketplace](https://opensea.io/collection/thales-market)
 
   - The competition also includes some unique markets such as speculating on ETH/BTC market cap ratio (AKA the Flippening) and on the number of ETH burned, all served by Chainlink oracles built for Thales.
+
+
+
+## Governance
+
+- [SIP-135](https://sips.synthetix.io/sips/sip-135/) - L2 Shorting: This SIP brings shorting capabilities (that have been available on L1) to L2.
+
+>To maintain consistency between L1 and L2, this release will also include implementation of two SIP’s on L2 that have already been released previously on L1 ([SIP-174](https://sips.synthetix.io/sips/sip-174/) and [SIP-145](https://sips.synthetix.io/sips/sip-145/) in the [Mirfak release](https://blog.synthetix.io/the-mirfak-release/)).
+	
+
+- **A new SIP was discussed this week — [SIP-187](https://sips.synthetix.io/sips/sip-187/) to Fix Partial Synth Updates in Debt Cache.**
+  - This SIP, proposed by Jackson, recommends upgrading the debt cache contract to fix an issue with partial synth updates so that the cached debt is updated after minting and burning sUSD. 
+  - This SIP is still in draft; however, the council hopes to see some movement and get it out in a week or so.
+
+	
+- Code for the L2 Bridged Governance SIP is pretty much ready to go, there’s just the last bit of information from the auditors to apply before it’s ready. 
+  - However, this [SIP - 171](https://sips.synthetix.io/sips/sip-171/) is being pushed back in favor of implementing L2 Shorting first with [SIP-135](https://sips.synthetix.io/sips/sip-135/). 
+  - Working with Andre on a solution for [SIP - 171](https://sips.synthetix.io/sips/sip-171/), which will allow transfer of non fee reclamation balances, as it looks like it’s going to require 5–10% more gas. 
+  - He hopes to have more information on this next week
 
 
 
