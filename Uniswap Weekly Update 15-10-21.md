@@ -11,7 +11,7 @@
   </p>
 </p>
 
-### <p align="center"> *New Weekly Update for Uniswap from Mark Priddy - October 11thth - October 15th 2021*
+### <p align="center"> *New Weekly Update for Uniswap from Mark Priddy - October 11th - October 15th 2021*
 
 
  ## Discord Announcements 
@@ -30,8 +30,8 @@
 
 [September 15th Discussion](https://gov.uniswap.org/t/proposal-to-refresh-the-uniswap-default-list/14178)
 
-
-- Currently Uniswap uses gemini 2 token list instead, that hasn’t been updated for half a year, nor gov have direct control over it, unlike with default one
+#### *A discussion has taken place twice to refresh the Uniswap token*
+- Currently Uniswap uses Gemini 2 token lists. They haven't been updated for half a year, nor does the community have direct control over it, unlike with default one
 - Its time for the community to provide the protocol with an awesome token list it deserves that is curated in a decentralised and fair manner
 - Also Optimism and Arbitrum network lists are maintained by optimism ethereum and offchain labs accordingly
 
@@ -39,7 +39,7 @@
 ## Additional Research
 
 
-
+- FXStreet discussed [Uniswap token price](https://www.fxstreet.com/cryptocurrencies/news/uniswap-targets-36-first-before-uni-makes-new-all-time-highs-202110072112)
 
  
 
