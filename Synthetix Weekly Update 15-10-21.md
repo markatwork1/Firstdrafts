@@ -22,7 +22,6 @@
 
 - **Reminder that a New Voting Guide** was released for new Synthetix Community Members [here](https://medium.com/@akng105/a-guide-to-synthetix-voting-for-new-community-members-fa57d929b2ce)
 
-- Bankless show [available here](https://www.youtube.com/watch?v=zb68Vl7cE_M) covers Kwenta's transition out of Synthetix, tokenomics, governance, staking, as well as the upcoming competition
 
 - Early next week, shorting will be enabled on L2 with the Sargas release. 
   - During this release there will be no downtime on L1, but there will be up to 3 hours of downtime on L2 and deposits to L2 will be frozen during that time. [See the official announcement here for details](https://blog.synthetix.io/the-sargas-release/)
@@ -60,6 +59,8 @@
   - This SIP, proposed by Jackson, recommends upgrading the debt cache contract to fix an issue with partial synth updates so that the cached debt is updated after minting and burning sUSD. 
   - This SIP is still in draft; however, the council hopes to see some movement and get it out in a week or so.
 
+- [The Atomic Exchange Function SIP - 120](https://sips.synthetix.io/sips/sip-120/) is in the process of being implemented
+  - Continuing to do sandbox testing here.
 	
 - Code for the L2 Bridged Governance SIP is pretty much ready to go, there’s just the last bit of information from the auditors to apply before it’s ready. 
   - However, this [SIP - 171](https://sips.synthetix.io/sips/sip-171/) is being pushed back in favor of implementing L2 Shorting first with [SIP-135](https://sips.synthetix.io/sips/sip-135/). 
@@ -70,11 +71,18 @@
 
 ## Summary
 
+The Synthetix community is anticipating the Sargas Release as well as news on implementing L2 Shorting first with [SIP-135](https://sips.synthetix.io/sips/sip-135/). There was a new proposal discussed this week, [SIP-187](https://sips.synthetix.io/sips/sip-187/), to Fix Partial Synth Updates in Debt Cache. [SIP - 120](https://sips.synthetix.io/sips/sip-120/), "proposes a new exchange function for L1 that enables atomic transactions between synths by eschewing the current fee reclamation mechanism. The price selection method is designed to be resistant against both frontrunning oracle latency and flashloan attacks by sourcing prices from Chainlink and DEX oracles." [^1]
+	
+[^1]: SNXWeave, "SNXweave Weekly Recap", *https://snxweave.medium.com/snxweave-weekly-recap-f0b35a2316f9*, Medium, October 8th, 2021. October 12th, 2021
+	
+- A discussion took place on how to replenish the Synthetix Guardians to seek potential governance candidates and serve as mentors to new candidates.
+
+- The dynamic exchange fee [SIP - 184](https://sips.synthetix.io/sips/sip-184/) was approved last week with six votes in favor (Michael, Kain, Spreek, Jackson, Bojan, and Danijel) and none against. Afif stated Daniel, Lecky, and Mark are working on simplifying implementation, and aiming to have it calculate exchanges at any moment for all exchanges using Chainlink’s price oracle history.
 
 
 ## Additional Research
 
-
+- Bankless show [available here](https://www.youtube.com/watch?v=zb68Vl7cE_M) covers Kwenta's transition out of Synthetix, tokenomics, governance, staking, as well as the upcoming competition
 
 
 
