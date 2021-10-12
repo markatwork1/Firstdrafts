@@ -11,7 +11,7 @@
   </p>
 </p>
 
-### <p align="center"> *New Weekly Update for Uniswap from Mark Priddy - October 11th - October 15th 2021*
+### <p align="center"> *New Weekly Update for Uniswap from Mark Priddy October 11th - October 15th 2021*
 
 
  ## Discord Announcements 
