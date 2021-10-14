@@ -15,20 +15,24 @@
 
 
  ## Discord Announcements 
-
+- **Reminder to apply for a Uniswap Grant if you have a project or idea you'd like to present to the Uniswap team**
 
 ## Governance
+- Not too many announcements. Last Blog Post [September 21st, 2021](https://uniswap.org/blog/)	
 	
+- Mainly working on providing easier ways for grantees to give updates on their output and progress
 
 
 	
 ## Summary
-	
+
+- [Uniswap Grants Notion Page](https://www.notion.so/unigrants/Welcome-to-UNI-Grants-6e3e84967a984a5fb127ae749649ddc9)
+  
+- [Apply for a grant here](https://airtable.com/shrEXXxXB1humz7VS)
+
 [October 6th Discussion](https://gov.uniswap.org/t/uni-default-list/14407) to create proposal to refresh the Uniswap Default token list
 	
-
-
-[September 15th Discussion](https://gov.uniswap.org/t/proposal-to-refresh-the-uniswap-default-list/14178)
+[September 15th Discussion](https://gov.uniswap.org/t/proposal-to-refresh-the-uniswap-default-list/14178) to refresh the token list in addition to removing unsupported or out of date tokens
 
 #### *A discussion has taken place twice to refresh the Uniswap token*
 - Currently Uniswap uses Gemini 2 token lists. They haven't been updated for half a year, nor does the community have direct control over it, unlike with default one
