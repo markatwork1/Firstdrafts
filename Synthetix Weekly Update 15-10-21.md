@@ -22,6 +22,7 @@
 
 - **Reminder that a New Voting Guide** was released for new Synthetix Community Members [here](https://medium.com/@akng105/a-guide-to-synthetix-voting-for-new-community-members-fa57d929b2ce)
 
+- Synthetix tweeted a referral read by [@0xToit](https://twitter.com/i/web/status/1448380685484367874)
 
 - Early next week, shorting will be enabled on L2 with the Sargas release. 
   - During this release there will be no downtime on L1, but there will be up to 3 hours of downtime on L2 and deposits to L2 will be frozen during that time. [See the official announcement here for details](https://blog.synthetix.io/the-sargas-release/)
