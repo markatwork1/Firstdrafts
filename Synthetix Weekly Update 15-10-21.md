@@ -50,7 +50,7 @@
 
 ## Governance
 
-- [SIP-135](https://sips.synthetix.io/sips/sip-135/) - L2 Shorting: This SIP brings shorting capabilities (that have been available on L1) to L2.
+- [SIP-135](https://sips.synthetix.io/sips/sip-135/) - L2 Shorting: This proposal brings shorting capabilities (that have been available on L1) to L2.
 
 >To maintain consistency between L1 and L2, this release will also include implementation of two SIP’s on L2 that have already been released previously on L1 ([SIP-174](https://sips.synthetix.io/sips/sip-174/) and [SIP-145](https://sips.synthetix.io/sips/sip-145/) in the [Mirfak release](https://blog.synthetix.io/the-mirfak-release/)).
 
