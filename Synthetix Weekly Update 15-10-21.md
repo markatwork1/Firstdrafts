@@ -53,9 +53,16 @@
 - [SIP-135](https://sips.synthetix.io/sips/sip-135/) - L2 Shorting: This SIP brings shorting capabilities (that have been available on L1) to L2.
 
 >To maintain consistency between L1 and L2, this release will also include implementation of two SIP’s on L2 that have already been released previously on L1 ([SIP-174](https://sips.synthetix.io/sips/sip-174/) and [SIP-145](https://sips.synthetix.io/sips/sip-145/) in the [Mirfak release](https://blog.synthetix.io/the-mirfak-release/)).
-	
 
-- **A new SIP was discussed this week — [SIP-187](https://sips.synthetix.io/sips/sip-187/) to Fix Partial Synth Updates in Debt Cache.**
+- Collateralization Ratio on L2 has been lowered to 500% as per [sccp-140](
+https://sips.synthetix.io/sccp/sccp-140/)
+
+- 3 SIPS were discussed in-depth Thursday October 14th, 2021 with the Spartan Council in the community governance [Discord channel](https://t.co/MoZraZDBZF?amp=1)
+  - [SIP-161: Core Contributor Committee](https://sips.synthetix.io/sips/sip-161/)
+  - [SIP-172: V2.X Governance Processes & Changes](https://sips.synthetix.io/sips/sip-172/)
+  - [SIP-186: Risk Committee](https://sips.synthetix.io/sips/sip-186/)
+
+- **A new SIP was discussed last week — [SIP-187](https://sips.synthetix.io/sips/sip-187/) to Fix Partial Synth Updates in Debt Cache.**
   - This SIP, proposed by Jackson, recommends upgrading the debt cache contract to fix an issue with partial synth updates so that the cached debt is updated after minting and burning sUSD. 
   - This SIP is still in draft; however, the council hopes to see some movement and get it out in a week or so.
 
