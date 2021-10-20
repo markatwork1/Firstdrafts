@@ -98,7 +98,7 @@
 
 - Atomic Exchange Fucntion efficiency improved by Kaleb and Afif
 	
-- Spartan Council/Core Contributor Committee and Grants DAO have projects in the works to better serve the Synthetix team and improvide productivity and educations for the everyday user
+- Spartan Council/Core Contributor Committee and Grants DAO have projects in the works to better serve the Synthetix team and improve productivity and in addition educations for the everyday user
 
 - SIP 80, 182, and 187 still in progress	
 	
