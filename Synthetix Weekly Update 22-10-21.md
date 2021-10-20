@@ -113,6 +113,7 @@
 
 ## Additional Research
 
+- October 20th: There was an issue with inflation minting for last snapshot which caused SNX staking rewards to be lower on both L1 and L2. Core Contributors are looking into it and will announce a mitigation plan once its panned out
 
 
 
