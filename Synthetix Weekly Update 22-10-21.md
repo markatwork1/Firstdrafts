@@ -22,6 +22,8 @@
 
 [On Spotify](https://open.spotify.com/show/5RkXS9nwyfkwQsnt7svavX)
 
+- [Kwenta Trading Competition registration](https://futures.kwenta.io/)
+
 - **Reminder that a New Voting Guide** was released for new Synthetix Community Members [here](https://medium.com/@akng105/a-guide-to-synthetix-voting-for-new-community-members-fa57d929b2ce)
 
 - [Sargas](https://blog.synthetix.io/the-sargas-release/) was officially deployed on Mainnet OVM, meaning [shorting](https://sips.synthetix.io/sips/sip-135/) is now available on L2
