@@ -43,8 +43,10 @@
 
 - [SIP - 80](https://sips.synthetix.io/sips/sip-80/) for Futures is progressing well. The goal is to have it ready after the regenesis.	
 
-- [SIP - 187](https://sips.synthetix.io/sips/sip-187/) presented further progress
+- [SIP - 187](https://sips.synthetix.io/sips/sip-187/) completed
 > "During his presentation, Jackson explained that the partial updates in the debt cache aren’t being updated properly when minting and burning sUSD. However now, with [SIP - 187](https://sips.synthetix.io/sips/sip-187/), when minting and burning sUSD, the debt cash and the total debt value of the system are updated right away, and don’t require a debt snapshot to happen first. This fix will be applied on L1 and L2, and actually slightly reduces the minting and burning costs in the process. This SIP is currently being voted on."[^1]
+	
+[^1]: SNXWeave, "SNXweave Weekly Recap", *https://snxweave.medium.com/snxweave-weekly-recap-7c758cf5a717*, Medium, October 19th, 2021. October 20th, 2021
 	
 - Moving forward there will be clearer differentiation between Synthetix as an infrastructure provider and Kwenta as a dApp developer
   - Working on blog post to detail the specifics of this change 
@@ -104,24 +106,19 @@
 	
 - Spartan Council/Core Contributor Committee and Grants DAO have projects in the works to better serve the Synthetix team and improve productivity and in addition educations for the everyday user
 
-- SIP 80, 182, and 187 still in progress	
+- SIP 80, 182 still in progress. The Kaus release has been completed and released to L1 and L2.   
+SIP-187 https://sips.synthetix.io/sips/sip-187/
+
 	
 - Per [SIP - 186](https://sips.synthetix.io/sips/sip-186/) have the Risk committee members selected by the other governing bodies, rather than selected from within them.
 
-
-	
-[^1]: SNXWeave, "SNXweave Weekly Recap", *https://snxweave.medium.com/snxweave-weekly-recap-7c758cf5a717*, Medium, October 19th, 2021. October 20th, 2021
-	
-
-
+- Per [SIP-187](https://sips.synthetix.io/sips/sip-187/) The Kaus release has been completed and released to L1 and L2.   	
 
 ## Additional Research
 
-- Synthetix Tweet subtweet showing for Synthetix from [@gatheringgwei](https://twitter.com/GatheringGwei/status/1436433176285483008)
+- Synthetix subtweet showing for Synthetix from [@gatheringgwei](https://twitter.com/GatheringGwei/status/1436433176285483008)
 	
 - October 20th: There was an issue with inflation minting for last snapshot which caused SNX staking rewards to be lower on both L1 and L2. Core Contributors are looking into it and will announce a mitigation plan once its panned out
-
-
 
 
 <p align="center">
