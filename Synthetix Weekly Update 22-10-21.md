@@ -15,14 +15,18 @@
 ### <p align="center"> *New Weekly Update for Synthetix from Mark Priddy October 18th 2021 - October 22nd 2021*
 
 ## Discord Announcements
-
-- SNXWeave last update was October 19th
 	
 [October 19th Recap Blog](https://snxweave.medium.com/snxweave-weekly-recap-7c758cf5a717)
 
 [On Spotify](https://open.spotify.com/show/5RkXS9nwyfkwQsnt7svavX)
 
 - [Kwenta Trading Competition registration](https://futures.kwenta.io/)
+  - It’s free to enter on Kovan Testnet and will not require any of your own funds to participate
+  - This is the first public look at the decentralized perpetual futures, powered by Synthetix
+  - [Kwenta Discord Invite Link](https://t.co/sDjm2o0VEl?amp=1)
+	
+  - If you have any issues with registration, wait a brief period of time and try again. A lot of users will be using the service in the foreseeable future. If an issue persists, please join the Kwenta discord for tech support
+  
 
 - **Reminder that a New Voting Guide** was released for new Synthetix Community Members [here](https://medium.com/@akng105/a-guide-to-synthetix-voting-for-new-community-members-fa57d929b2ce)
 
@@ -113,6 +117,8 @@
 
 ## Additional Research
 
+- Synthetix Tweet subtweet showing for Synthetix from [@gatheringgwei](https://twitter.com/GatheringGwei/status/1436433176285483008)
+	
 - October 20th: There was an issue with inflation minting for last snapshot which caused SNX staking rewards to be lower on both L1 and L2. Core Contributors are looking into it and will announce a mitigation plan once its panned out
 
 
