@@ -123,8 +123,8 @@
 
 ## Additional Research
 
-
-
+- [Cointelegraph article](https://cointelegraph.com/news/arbitrum-extends-lead-over-optimism-as-uniswap-posts-record-volume-on-l2) covering Arbitrum, Optimism, and Uniswap
+  - "[Hayden Adams tweeted](https://twitter.com/haydenzadams/status/1450149479403958276?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1450149479403958276%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fcointelegraph.com%2Fnews%2Farbitrum-extends-lead-over-optimism-as-uniswap-posts-record-volume-on-l2) that daily volume across v3 deployments of the decentralized exchange on layer-two networks has pushed into record levels."
 
  
 
