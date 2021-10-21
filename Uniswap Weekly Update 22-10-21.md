@@ -25,6 +25,7 @@
 - The following is a [proposal](https://docs.google.com/document/d/1XPq6O567mcHLfB7kWLO2gnUsXvrDn2xq8ZsCt1fme2s/edit) to invest $2M, into the Bankless BED Index to diversify their treasury. The BED is an index, created by Bankless and Index Coop, that represents Crypto’s most investable assets, 33.3% BTC, 33.3% ETH, and 33.3% DeFi Pulse Index (DPI).
 
 ## Governance
+- [Beginner's Guide to Uniswap Voting](https://docs.uniswap.org/protocol/concepts/governance/guide-to-voting)
  
 - Still continuing to work on providing easier ways for grantees to give updates on their output and progress
 
