@@ -107,8 +107,6 @@
 - Spartan Council/Core Contributor Committee and Grants DAO have projects in the works to better serve the Synthetix team and improve productivity and in addition educations for the everyday user
 
 - SIP 80, 182 still in progress. The Kaus release has been completed and released to L1 and L2.   
-SIP-187 https://sips.synthetix.io/sips/sip-187/
-
 	
 - Per [SIP - 186](https://sips.synthetix.io/sips/sip-186/) have the Risk committee members selected by the other governing bodies, rather than selected from within them.
 
