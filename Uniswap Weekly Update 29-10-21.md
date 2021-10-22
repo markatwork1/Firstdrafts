@@ -36,7 +36,7 @@ Give a quick rundown of live and recently closed proposals.
 
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
-| Name of Proposal | Category | [View](Link to Proposal on Boardroom)
+| Name of Proposal | Category | [No](https://gov.uniswap.org/t/moving-defs-assets-to-an-on-chain-custodial-wallet-to-bolster-security/14328)
 
 ## Forum Summary
 
@@ -46,14 +46,27 @@ Give a quick rundown of what's happened in the DAOs governance forum and provide
 
 New discussions are threads that have started the week of the update.
 
+
+	
+	
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
-| Bed INDEX Proposal | Governance Tokens | [Discuss](https://gov.uniswap.org/t/bed-index-proposal/14562)   |
+| Name of Post | Category | [Discuss](Link to Forum post)
+	
+	
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
+| Name of Post | Category | [Discuss](Link to Forum post)
 
 ### Ongoing Discussions
 
 Ongoing discussions are threads that started before the week of the update but were substantively added to during the week of the update.
 
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
+| Bed INDEX Proposal | Governance Tokens | [Discuss](https://gov.uniswap.org/t/bed-index-proposal/14562)   |
+	
+	
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
 | Name of Post | Category | [Discuss](Link to Forum post)
