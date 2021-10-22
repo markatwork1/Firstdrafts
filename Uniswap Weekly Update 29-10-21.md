@@ -36,7 +36,7 @@ Give a quick rundown of live and recently closed proposals.
 
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
-| Name of Proposal | Category | [No](https://gov.uniswap.org/t/moving-defs-assets-to-an-on-chain-custodial-wallet-to-bolster-security/14328)
+| Moving DeFi Education Fund’s assets to an on-chain custodial wallet to bolster security | Moving Assets | [No](https://gov.uniswap.org/t/moving-defs-assets-to-an-on-chain-custodial-wallet-to-bolster-security/14328)
 
 ## Forum Summary
 
