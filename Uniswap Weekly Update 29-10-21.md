@@ -46,9 +46,9 @@ Give a quick rundown of what's happened in the DAOs governance forum and provide
 
 New discussions are threads that have started the week of the update.
 
-| Bed INDEX Proposal | Governance Tokens | [Discuss](https://gov.uniswap.org/t/bed-index-proposal/14562)   |
+| Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
-| Name of Post | Category | [Discuss](Link to Forum post)
+| Bed INDEX Proposal | Governance Tokens | [Discuss](https://gov.uniswap.org/t/bed-index-proposal/14562)   |
 
 ### Ongoing Discussions
 
