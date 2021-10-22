@@ -17,7 +17,6 @@
 
 
 
-
 ## Summary
 
 Write a brief summary, TL;DR, covering the important governance and DAO events of the week.
@@ -39,6 +38,10 @@ Give a quick rundown of live and recently closed proposals.
 | Moving DeFi Education Fund’s assets to an on-chain custodial wallet to bolster security | Moving Assets | [No](https://gov.uniswap.org/t/moving-defs-assets-to-an-on-chain-custodial-wallet-to-bolster-security/14328)
 
 ## Forum Summary
+
+- Last week, Airbayer from Bankless, Miller from the DeFi Education Fund, and Ben from Ethelo had a chance to speak to the Uniswap community
+	
+- 
 
 Give a quick rundown of what's happened in the DAOs governance forum and provide links to join the discussion. 
 
