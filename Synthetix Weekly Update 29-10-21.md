@@ -23,7 +23,7 @@
 - **Reminder that a New Voting Guide** was released for new Synthetix Community Members [here](https://medium.com/@akng105/a-guide-to-synthetix-voting-for-new-community-members-fa57d929b2ce)
 
 - A signal poll is live from dHedge DAO to gauge sentiment on where to deploy next. 
-  - Given that Synthetix is live on Optimism, it's the obvious best selection  
+  - Given that Synthetix is live on Optimism, it's the obvious best selection 
   - [Vote here](https://gov.dhedge.org/#/proposal/QmWSkP3DzvbocBYUWrQWsURSzZ1XDAg971PrSsro3P5N9J)
 
 
