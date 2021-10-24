@@ -35,22 +35,25 @@ Give a quick rundown of live and recently closed proposals.
 
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
-| Moving DeFi Education Fund’s assets to an on-chain custodial wallet to bolster security | Moving Assets | [No](https://gov.uniswap.org/t/moving-defs-assets-to-an-on-chain-custodial-wallet-to-bolster-security/14328)
+| DEF Snapshot Proposal | Moving Assets | [No](https://gov.uniswap.org/t/moving-defs-assets-to-an-on-chain-custodial-wallet-to-bolster-security/14328)
+	
 
 ## Forum Summary
 
 - Last week, Airbayer from Bankless, Miller from the DeFi Education Fund, and Ben from Ethelo had a chance to speak to the Uniswap community
 	
-- 
+- Moving DeFi Education Fund’s assets to an on-chain custodial wallet to bolster security proposal was rejected
+
+- Ethelo usability is an ongoing discussion
+
+- Discussing including BED Index as a governance token is an ongoing
+
 
 Give a quick rundown of what's happened in the DAOs governance forum and provide links to join the discussion. 
 
 ### New Discussions
 
 New discussions are threads that have started the week of the update.
-
-
-	
 	
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
@@ -72,7 +75,7 @@ Ongoing discussions are threads that started before the week of the update but w
 	
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
-| Name of Post | Category | [Discuss](Link to Forum post)
+| Ethelo Platform | New Governance Tool | [Ethelo Platform](https://ethelo.com/)
 
 ## Other Updates
 
