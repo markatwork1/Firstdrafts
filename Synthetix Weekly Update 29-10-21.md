@@ -63,7 +63,7 @@
 
 ## Additional Research
 
-
+- All Synthetix Improvement Proposals [here](https://sips.synthetix.io/all-sip/)
 
 <p align="center">
   <a href="http://app.boardroom.info/">
