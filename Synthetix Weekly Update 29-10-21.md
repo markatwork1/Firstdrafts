@@ -44,7 +44,7 @@
 	
 ### AmbassadorsDAO
 	
-
+- [SIP - 172](https://sips.synthetix.io/sips/sip-172/) seeks to simplify the meta-governance processes of the Synthetix Governance System and addresses current meta-governance edge-cases and frictions
 	
 **New Names of Synthetix Councils**
 	
