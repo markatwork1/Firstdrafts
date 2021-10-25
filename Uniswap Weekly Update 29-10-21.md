@@ -85,6 +85,7 @@ Ongoing discussions are threads that started before the week of the update but w
 
 This section of the Weekly Update is for adding anything else members of a DAO need to know. Scribes can format these however they like, but below are some suggestions on the type of things to include:
 
+- Formal Pitch for inclusion of the BED Index [here](https://docs.google.com/document/d/1yle6Zoyj83GHGTEJkZUOhRUzP7MiOIONChhwRah923E/edit)
 - Topics discussed in the Discord, with links.
 - Twitter threads about the DAO are worth highlighting.
 - News mentions of the DAO
