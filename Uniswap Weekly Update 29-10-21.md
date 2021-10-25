@@ -19,9 +19,13 @@
 
 ## Summary
 
+- Unicode Hackathon started today October 29th and will run through November 10th
+  - The Aztec Protocol, Polywrap, an Idea Brainstorming Session, CryptoRachel were scheduled first
 Write a brief summary, TL;DR, covering the important governance and DAO events of the week.
 
 ## Proposals
+
+- DeFi Education Fund proposal to move funds from multi-sig wallet to custodial wallet rejected
 
 Give a quick rundown of live and recently closed proposals.
 
@@ -48,7 +52,7 @@ Give a quick rundown of live and recently closed proposals.
 
 - Discussing including BED Index as a governance token is an ongoing
 
-
+- Unicode Hackathon kicked off Friday October 29th, 2021
 Give a quick rundown of what's happened in the DAOs governance forum and provide links to join the discussion. 
 
 ### New Discussions
