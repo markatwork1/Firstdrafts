@@ -26,7 +26,8 @@
   - Given that Synthetix is live on Optimism, it's the obvious best selection 
   - [Vote here](https://gov.dhedge.org/#/proposal/QmWSkP3DzvbocBYUWrQWsURSzZ1XDAg971PrSsro3P5N9J)
 
-
+- Per Kaleb, "the wrapper will be live next week on L2 if the testing goes through without an issue this week.
+Hoping that the peg will no longer be an issue soonthetix."
 
 ## Governance
 
