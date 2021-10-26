@@ -16,7 +16,7 @@
 
 ## Discord Announcements
 	
-[October 19th Recap Blog](https://snxweave.medium.com/snxweave-weekly-recap-7c758cf5a717)
+[October 26th Recap Blog](https://snxweave.medium.com/?p=495d8cf05ad0)
 
 [On Spotify](https://open.spotify.com/show/5RkXS9nwyfkwQsnt7svavX)
 
@@ -33,15 +33,43 @@ Hoping that the peg will no longer be an issue soonthetix."
 
 ### Spartan Council and Core Contributor Committee
 
-
-> 
-[^1]: SNXWeave, "SNXweave Weekly Recap", *https://snxweave.medium.com/snxweave-weekly-recap-7c758cf5a717*, Medium, October 19th, 2021. October 20th, 2021
+- [SIP-187](https://sips.synthetix.io/sips/sip-187/) to fix partial synth updates in debt cache was approved last week, with all eight Council members voting in favor
+  - This SIP should alleviate the problem that occurs when a large holder burns and the debt snapshot isn’t completed
 	
+- The Wrappr Factory [SIP-182](https://sips.synthetix.io/sips/sip-182/) is also progressing well, and should be ready in a couple of weeks	
+  - Proposes a new abstract factory contract that can deploy new wrappers as needed, rather than creating another distinct SIP and contract for each new token to be added in the future	
+  - It will be starting with ETH and LINK, and then each new Wrappr instance can be introduced to the factory via a SIP
+	
+- [SIP-80](https://sips.synthetix.io/sips/sip-80/) for Futures still progressing as well while Kwenta team performs final tests
 
+- [SCCP-142](https://sips.synthetix.io/sccp/sccp-142/) discussed which will increase L2 inflationary rewards from 50k to 75k SNX weekly
+  - Is is likely council will wait to vote on this SCCP until after the Wrappr Factory SIP is implemented
 
+- Full V2X roadmap again [here](https://blog.synthetix.io/v2x-revisited/)
+
+- Risk Committee [SIP-186](https://sips.synthetix.io/sips/sip-186/) needs to be revised and, "should be stripped down to a simple proposal that allows the Core Contributors to organize and vote their own representatives into the Committee." [^1]
+
+- [SIP-172](https://sips.synthetix.io/sips/sip-172/) and [SIP-161](https://sips.synthetix.io/sips/sip-161/) not finalized
+	
+[^1]: SNXWeave, "SNXweave Weekly Recap", *https://snxweave.medium.com/?p=495d8cf05ad0*, Medium, October 26th, 2021. October 26th, 2021
+	
 ### GrantsDAO
 
+- The Treasury Council just distributed $32k sUSD to the gDAO for their short-term budget
+  - One of the grantDAO’s projects is a [debt hedging bot](https://medium.com/@SynthetixGrants/synthetix-debt-hedging-bot-458fca8b0f4b) that stakers can use to automatically hedge their debt externally
+  - There has been some brainstorming around how to make it a little more user friendly
+	
+- Still working on The 300 article to enhance community participation and share ideas
+ 
+- [Teleportr](https://medium.com/@SynthetixGrants/teleport-eth-to-optimism-with-teleportr-f6b1b719736c) was temporarily down last week as it was labeled as a phishing site by a small number of people, which led to it immediately being taken down by a centralized service
+  - Proves the need for decentralized hosting services
+  - [Tweet from Clem](https://twitter.com/0x_clem/status/1451169510476627975?s=20) with more information about the issue
 
+- GrantsDAO is also still working on version 1.5 of the gDAO site
+  - CT met with the coder to request an update to the grant application page for it to include multiple input fields, as well as a gDAO initiative page	
+
+- NFT project on the horizon
+  - Partnering with ARCx and Universe. They are actively working to make this project
 	
 ### AmbassadorsDAO
 	
@@ -56,11 +84,18 @@ Hoping that the peg will no longer be an issue soonthetix."
 4. Ambassador Council
 5. Core Contributor Committee
 6. Risk Committee
-	
 
+- The first Spartan City Hall is happening soon and will take place in the public Synthetix Stage in [Discord](https://discord.gg/bq3V9brMQV)
 
 ## Summary
-	
+
+- Treasury Council distributed $32k sUSD to gDAO for their short-term budget
+
+- [SIP-187](https://sips.synthetix.io/sips/sip-187/) approved last week
+
+- The Wrappr Factory [SIP-182](https://sips.synthetix.io/sips/sip-182/) almost ready
+
+-  [SIP-172](https://sips.synthetix.io/sips/sip-172/), [SIP-161](https://sips.synthetix.io/sips/sip-161/), and [SIP - 186](https://sips.synthetix.io/sips/sip-186/) still being discussed
 	
 
 ## Additional Research
