@@ -19,21 +19,16 @@
 
 ## Summary
 
-- Unicode Hackathon started today October 29th and will run through November 10th
+- [Unicode Hackathon](https://unicode.ethglobal.com/) started today October 29th and will run through November 10th
+	
   - The Aztec Protocol, Polywrap, an Idea Brainstorming Session, CryptoRachel were scheduled first
-Write a brief summary, TL;DR, covering the important governance and DAO events of the week.
-
+	
+  - Brainstorm storming and Team Formation event took place Thursday October 29th via Zoom
+  
 ## Proposals
 
 - DeFi Education Fund proposal to move funds from multi-sig wallet to custodial wallet rejected
 
-Give a quick rundown of live and recently closed proposals.
-
-### Live Votes
-
-| Name          | Category      | Link   |
-| ------------- |:-------------:| :-----:|
-| Name of Proposal | Category | [Vote](Link to Proposal on Boardroom)
 
 ### Recent Votes
 
@@ -56,28 +51,27 @@ Give a quick rundown of live and recently closed proposals.
 	
 - **In New Discussions:** Uniswap should add a 1bps fee tier with 1 tick spacing. This change is straightforward from a technical perspective and would help Uniswap compete in stablecoin <> stablecoin pairs, where the majority of the market share is taken by Curve and DODO
 	
-- 
-	
-- Next Uniswap Community Call is November 3rd
-	
-Give a quick rundown of what's happened in the DAOs governance forum and provide links to join the discussion. 
+- **Next Uniswap Community Call is November 3rd**
 
 ### New Discussions
 
-New discussions are threads that have started the week of the update.
+	
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
+| Deploy Uniswap V3 on Polygon/Matic | Polygon | [Discuss](https://gov.uniswap.org/t/deploy-uniswap-v3-on-polygon-matic/12165)
+
 	
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
 | Add 1 Basis Point Fee Tier | Consensus Check | [Discuss](https://gov.uniswap.org/t/consensus-check-add-1-basis-point-fee-tier/14612)
-	
+
 	
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
 | Create NFT for the UNI community | Philanthropic | [Discuss](https://gov.uniswap.org/t/create-nft-for-the-uni-community/14625)
 
 ### Ongoing Discussions
-
-Ongoing discussions are threads that started before the week of the update but were substantively added to during the week of the update.
+	
 
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
@@ -90,14 +84,9 @@ Ongoing discussions are threads that started before the week of the update but w
 
 ## Other Updates
 
-This section of the Weekly Update is for adding anything else members of a DAO need to know. Scribes can format these however they like, but below are some suggestions on the type of things to include:
-
 - Formal Pitch for inclusion of the BED Index [here](https://docs.google.com/document/d/1yle6Zoyj83GHGTEJkZUOhRUzP7MiOIONChhwRah923E/edit)
 - Twitter thread from Uniswap Labs on passing $500 Billion total trading volume since its launch in November 2018
-- Topics discussed in the Discord, with links.
-- Twitter threads about the DAO are worth highlighting.
-- News mentions of the DAO
-- Etc.
+- [Cointelegraph article](https://cointelegraph.com/news/valour-uniswap-exchange-traded-product-to-increase-uni-exposure) covering Valour Uniswap ETP
   
   
   
