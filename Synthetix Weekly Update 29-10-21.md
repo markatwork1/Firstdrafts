@@ -35,8 +35,8 @@ Hoping that the peg will no longer be an issue soonthetix."
 - [SIP-187](https://sips.synthetix.io/sips/sip-187/) to fix partial synth updates in debt cache was approved last week, with all eight Council members voting in favor
   - This SIP should alleviate the problem that occurs when a large holder burns and the debt snapshot isn’t completed
 	
-- The Wrappr Factory [SIP-182](https://sips.synthetix.io/sips/sip-182/) is also progressing well, and should be ready in a couple of weeks	
-  - Proposes a new abstract factory contract that can deploy new wrappers as needed, rather than creating another distinct SIP and contract for each new token to be added in the future	
+- The Wrappr Factory [SIP-182](https://sips.synthetix.io/sips/sip-182/) was implemented Thursday October 28th 	
+  - Proposed a new abstract factory contract that can deploy new wrappers as needed, rather than creating another distinct SIP and contract for each new token to be added in the future	
   - It will be starting with ETH and LINK, and then each new Wrappr instance can be introduced to the factory via a SIP
 	
 - [SIP-80](https://sips.synthetix.io/sips/sip-80/) for Futures still progressing as well while Kwenta team performs final tests
