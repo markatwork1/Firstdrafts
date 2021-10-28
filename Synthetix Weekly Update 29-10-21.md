@@ -92,7 +92,7 @@ Hoping that the peg will no longer be an issue soonthetix."
 
 - [SIP-187](https://sips.synthetix.io/sips/sip-187/) approved last week
 
-- The Wrappr Factory [SIP-182](https://sips.synthetix.io/sips/sip-182/) almost ready
+- [The Avior Release](https://blog.synthetix.io/the-avior-release/) including new Wrappr Factory [SIP-182](https://sips.synthetix.io/sips/sip-182/) completed
 
 -  [SIP-172](https://sips.synthetix.io/sips/sip-172/), [SIP-161](https://sips.synthetix.io/sips/sip-161/), and [SIP - 186](https://sips.synthetix.io/sips/sip-186/) still being discussed
 	
