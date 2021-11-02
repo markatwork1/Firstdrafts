@@ -20,12 +20,16 @@
 ## Summary
 
 - [Unicode Hackathon](https://unicode.ethglobal.com/) started today October 29th and will run through November 10th
-  - The Aztec Protocol, Polywrap, an Idea Brainstorming Session, CryptoRachel were scheduled first
-Write a brief summary, TL;DR, covering the important governance and DAO events of the week.
+- Unicode Events going on daily in the [ETHGlobal Discord](https://discord.com/invite/ethglobal)
+- The interview was done with an MEP of the Czech Republic Ondřej KOVAŘÍK who is a member of the Economic Committee in the European Parliament. 
+  - In particular, the interview goes deeper into the upcoming crypto regulation MiCA and its impact.
+- New recommendation discussion for Uniswap to do a cross chain DEX
 
 ## Proposals
 
 - DeFi Education Fund proposal to move funds from multi-sig wallet to custodial wallet rejected
+- New proposal discussion endorsing the idea of Uniswap Governance backing the creation of a crypto-native community-managed algorithmic unit of account as an alternative to “stable coins."
+
 
 Give a quick rundown of live and recently closed proposals.
 
@@ -44,21 +48,19 @@ Give a quick rundown of live and recently closed proposals.
 
 ## Forum Summary
 
-- Last week, Airbayer from Bankless, Miller from the DeFi Education Fund, and Ben from Ethelo had a chance to speak to the Uniswap community
+- Mention anyone who spoke in the Community Call
 	
-- Moving DeFi Education Fund’s assets to an on-chain custodial wallet to bolster security proposal was rejected
+
 
 - Ethelo usability is an ongoing discussion
 
 - Discussing including BED Index as a governance token is an ongoing
 
-- Unicode Hackathon kicked off Friday October 29th, 2021
+- Unicode Hackathon is ongoing and will go through November 10th
 	
-- **In New Discussions:** Uniswap should add a 1bps fee tier with 1 tick spacing. This change is straightforward from a technical perspective and would help Uniswap compete in stablecoin <> stablecoin pairs, where the majority of the market share is taken by Curve and DODO
+- Moving DeFi Education Fund’s assets to an on-chain custodial wallet to bolster security proposal was rejected
 	
-- 
-	
-- Next Uniswap Community Call is November 3rd
+
 	
 Give a quick rundown of what's happened in the DAOs governance forum and provide links to join the discussion. 
 
@@ -68,17 +70,19 @@ New discussions are threads that have started the week of the update.
 	
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
+| Should defi platforms replace the USD as a unit of account? | Proposal Discussion | [Discuss](https://gov.uniswap.org/t/proposal-discussion-should-defi-platforms-replace-the-usd-as-a-unit-of-account/14741)
+	
+	
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
 | Interview with a member of the European Parliament | EU Regulation MiCA | [Discuss](https://gov.uniswap.org/t/eu-regulation-mica-interview-with-a-member-of-the-european-parliament/14675)	
 
 	
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
-| Add 1 Basis Point Fee Tier | Consensus Check | [Discuss](https://gov.uniswap.org/t/consensus-check-add-1-basis-point-fee-tier/14612)
+| Uniswap is recommended to do cross chain DEX | Proposal Discussion | [Discuss](https://gov.uniswap.org/t/uniswap-is-recommended-to-do-cross-chain-dex/14682)	
 	
 	
-| Name          | Category      | Link   |
-| ------------- |:-------------:| :-----:|
-| Should defi platforms replace the USD as a unit of account? | Replace USD with The Unit | [Discuss](https://gov.uniswap.org/t/proposal-discussion-should-defi-platforms-replace-the-usd-as-a-unit-of-account/14741)
 
 ### Ongoing Discussions
 
@@ -92,13 +96,17 @@ Ongoing discussions are threads that started before the week of the update but w
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
 | Ethelo Platform | New Governance Tool | [Ethelo Platform](https://ethelo.com/)
+	
+	
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
+| Add 1 Basis Point Fee Tier | Consensus Check | [Discuss](https://gov.uniswap.org/t/consensus-check-add-1-basis-point-fee-tier/14612)
 
 ## Other Updates
 
 This section of the Weekly Update is for adding anything else members of a DAO need to know. Scribes can format these however they like, but below are some suggestions on the type of things to include:
 
-- Formal Pitch for inclusion of the BED Index [here](https://docs.google.com/document/d/1yle6Zoyj83GHGTEJkZUOhRUzP7MiOIONChhwRah923E/edit)
-- Twitter thread from Uniswap Labs on passing $500 Billion total trading volume since its launch in November 2018
+
 - Topics discussed in the Discord, with links.
 - Twitter threads about the DAO are worth highlighting.
 - News mentions of the DAO
