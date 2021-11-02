@@ -4,14 +4,14 @@
   </a>
   <h1 align="center">Uniswap Weekly Update</h1>
   <p align="center">
-    October 29th, 2021👻
+    November 5th, 2021
   <br />
   <a href="http://app.boardroom.info/BanklessDAO"><strong>View in the Portal »</strong></a>
   <br />
   </p>
 </p>
 
-### <p align="center"> *New Weekly Update for Uniswap from Mark Priddy October 25th - October 29th 2021*
+### <p align="center"> *New Weekly Update for Uniswap from Mark Priddy November 1st - November 5th 2021*
 
 
 
@@ -68,12 +68,17 @@ New discussions are threads that have started the week of the update.
 	
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
+| Interview with a member of the European Parliament | EU Regulation MiCA | [Discuss](https://gov.uniswap.org/t/eu-regulation-mica-interview-with-a-member-of-the-european-parliament/14675)	
+
+	
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
 | Add 1 Basis Point Fee Tier | Consensus Check | [Discuss](https://gov.uniswap.org/t/consensus-check-add-1-basis-point-fee-tier/14612)
 	
 	
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
-| Create NFT for the UNI community | Philanthropic | [Discuss](https://gov.uniswap.org/t/create-nft-for-the-uni-community/14625)
+| Should defi platforms replace the USD as a unit of account? | Replace USD with The Unit | [Discuss](https://gov.uniswap.org/t/proposal-discussion-should-defi-platforms-replace-the-usd-as-a-unit-of-account/14741)
 
 ### Ongoing Discussions
 
