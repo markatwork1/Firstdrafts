@@ -5,28 +5,24 @@
   </a>
   <h1 align="center">Synthetix Weekly Update</h1>
   <p align="center">
-    October 29th, 2021 👻
+    November 5th, 2021
   <br />
   <a href="http://app.boardroom.info/BanklessDAO"><strong>View in the Portal »</strong></a>
   <br />
   </p>
 </p>
 
-### <p align="center"> *New Weekly Update for Synthetix from Mark Priddy October 25th 2021 - October 29th 2021*
+### <p align="center"> *New Weekly Update for Synthetix from Mark Priddy November 1st 2021 - November 5th 2021*
 
 ## Discord Announcements
 	
-[October 26th Recap Blog](https://snxweave.medium.com/?p=495d8cf05ad0)
+[October 26th Recap Blog]()
 
-[On Spotify](https://open.spotify.com/show/5RkXS9nwyfkwQsnt7svavX)
+[On Spotify]()
 
 - **Reminder that a New Voting Guide** was released for new Synthetix Community Members [here](https://medium.com/@akng105/a-guide-to-synthetix-voting-for-new-community-members-fa57d929b2ce)
 
-- A signal poll is live from dHedge DAO to gauge sentiment on where to deploy next
-  - [Vote here](https://gov.dhedge.org/#/proposal/QmWSkP3DzvbocBYUWrQWsURSzZ1XDAg971PrSsro3P5N9J)
-
-- Per Kaleb, "the wrapper will be live next week on L2 if the testing goes through without an issue this week.
-Hoping that the peg will no longer be an issue soonthetix."
+- Rewards are now claimable [here](https://synthetixembassy.io/gpp) by all addresses who delegated $UNI for the Governance Participation Program
 
 ## Governance
 
@@ -84,7 +80,7 @@ Hoping that the peg will no longer be an issue soonthetix."
 5. Core Contributor Committee
 6. Risk Committee
 
-- The first Spartan City Hall is happening soon and will take place in the public Synthetix Stage in [Discord](https://discord.gg/bq3V9brMQV)
+- Spartan City Hall happening regularly and will take place in the public Synthetix Stage in [Discord](https://discord.gg/bq3V9brMQV)
 
 ## Summary
 
