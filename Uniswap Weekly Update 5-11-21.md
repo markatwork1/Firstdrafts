@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://app.boardroom.info/BanklessDAO">
-    <img src="http://img.youtube.com/vi/6OXMPX2kbsw/0.jpg" alt="Uniswap" width="400" />
+    <img src="https://cryptotesters-images.s3.eu-central-1.amazonaws.com/banner_top_5db6e272ee.jpg" alt="Uniswap" width="400" />
   </a>
   <h1 align="center">Uniswap Weekly Update</h1>
   <p align="center">
