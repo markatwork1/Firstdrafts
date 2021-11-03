@@ -86,7 +86,7 @@
 
 - All Synthetix Improvement Proposals [here](https://sips.synthetix.io/all-sip/)
 
-- Kain Warwick received a mention in a [Novemeber 2nd Cointelegraph article](https://cointelegraph.com/news/crypto-founders-top-young-australian-rich-list)
+- Kain Warwick received a mention in a [November 2nd Cointelegraph article](https://cointelegraph.com/news/crypto-founders-top-young-australian-rich-list)
 
 <p align="center">
   <a href="http://app.boardroom.info/">
