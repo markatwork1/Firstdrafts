@@ -53,7 +53,7 @@
 	
 - "Uniswap should add a 1bps fee tier with 1 tick spacing. This change is straightforward from a technical perspective and would help Uniswap compete in stablecoin to stablecoin pairs, where the majority of the market share is taken by Curve and DODO." [^1]
 	
-[^1]: Uniswap, "Uniswap Governance", *https://gov.uniswap.org/t/proposal-add-1-basis-point-fee-tier/14745*, gov.uniswap.org, November 2nd, 2021. November 3rd, 2021
+[^1]: Uniswap, "Uniswap Governance", *https://gov.uniswap.org/t/proposal-add-1-basis-point-fee-tier/14745*, gov.uniswap.org, November 2nd, 2021. November 4th, 2021
 
 ## Forum Summary
 
