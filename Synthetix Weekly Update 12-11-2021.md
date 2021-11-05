@@ -23,7 +23,7 @@
 - **Reminder that a New Voting Guide** was released for new Synthetix Community Members [here](https://medium.com/@akng105/a-guide-to-synthetix-voting-for-new-community-members-fa57d929b2ce)
 
 - [SIP-147](https://sips-dwdvhvxwr-synthetixio.vercel.app/sccp/sccp-147/) was discussed and is the proposal to rollout the DAI wrapper on L2 as an attempt to meet the sUSD demand. 
-  - This was an emergency governance meeting to work through options for the sUSD peg on L2
+  - This was an emergency governance meeting on November 5th to work through options for the sUSD peg on L2
 	
 ## Governance
 
