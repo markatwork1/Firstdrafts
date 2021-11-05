@@ -5,26 +5,25 @@
   </a>
   <h1 align="center">Synthetix Weekly Update</h1>
   <p align="center">
-    November 5th, 2021
+    November 12th, 2021
   <br />
   <a href="http://app.boardroom.info/BanklessDAO"><strong>View in the Portal »</strong></a>
   <br />
   </p>
 </p>
 
-### <p align="center"> *New Weekly Update for Synthetix from Mark Priddy November 1st 2021 - November 5th 2021*
+### <p align="center"> *New Weekly Update for Synthetix from Mark Priddy November 8th 2021 - November 12th 2021*
 
 ## Discord Announcements
 	
-[November 2nd Recap Blog](https://snxweave.medium.com/snxweave-weekly-recap-af98e1000e8c)
+[November 2nd Recap Blog]()
 
-[On Spotify](https://open.spotify.com/show/5RkXS9nwyfkwQsnt7svavX)
+[On Spotify]()
 
 - **Reminder that a New Voting Guide** was released for new Synthetix Community Members [here](https://medium.com/@akng105/a-guide-to-synthetix-voting-for-new-community-members-fa57d929b2ce)
 
-- Rewards are now claimable [here](https://synthetixembassy.io/gpp) by all addresses who delegated $UNI for the Governance Participation Program
-
-- Kwenta’s trading competition ended last week
+- [SIP-147](https://sips-dwdvhvxwr-synthetixio.vercel.app/sccp/sccp-147/) was discussed and is the proposal to rollout the DAI wrapper on L2 as an attempt to meet the sUSD demand. 
+  - This was an emergency governance meeting to work through options for the sUSD peg on L2
 	
 ## Governance
 
