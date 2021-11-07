@@ -45,6 +45,9 @@ This guide will describe how to vote using the Uniswap platform and inform users
 
 ## Delegating your UNI
 
+	
+**Part 1**
+	
 **UNI is a tradable cryptocurrency asset and functions like most other standard ERC-20 tokens**
   
 - In order for Uniswap tokens to be used as a vote, the owner must first go through the delegation process. 
@@ -57,6 +60,8 @@ This guide will describe how to vote using the Uniswap platform and inform users
 - A democratic consensus, in a process called “quorum”, is determined by the percentage of UNI tokens in favor of, or against, a proposal. 
   - 1% of all UNI must be cast in favor to submit a proposal, and 4% in order to pass a vote.
 
+**Part 2**
+	
 - To delegate UNI tokens and enact their voting power [visit the Uniswap voting dashboard](https://app.uniswap.org/#/vote) and click the button that says “Unlock Voting”.
   
 - Once you select "Unlock Voting", you should see a screen that gives you the option to self delegate, or add a delegate address. 
@@ -100,8 +105,6 @@ This guide will describe how to vote using the Uniswap platform and inform users
 ## Resources and Tool
 
 - [Twitter](https://twitter.com/Uniswap), [Discord](https://discord.gg/xC9X5FQYC8), [Governance Forum](https://gov.uniswap.org/), [Blog](https://uniswap.org/blog/)
-
-
 
 
  <p align="center">
