@@ -25,14 +25,14 @@ This guide will describe how to vote using the Uniswap platform and inform users
 
 ## The Voting Process
   
-- If a proposal is currently live, it will say "Active" next to the title. 
+- If a [proposal is currently live](https://app.uniswap.org/#/vote), it will say "Active" next to the title. 
   - Clicking the proposal will show all the necessary information, documentation, and discussion needed for voters to make an informed decision.
   
 - *Refer to Delegating your UNI below*
   
 - If you have successfully self delegated and there is an active proposal, you are ready to vote in Uniswap Governance.
   
-- To cast your vote, navigate to the proposals page and click on an active proposal.
+- To cast your vote, navigate to the proposals page and click on an [active proposal](https://app.uniswap.org/#/vote/2/9).
   
 - After reviewing the attached details and deciding your opinion, choose “Vote For”, or “Vote Against”.
   
@@ -94,8 +94,7 @@ This guide will describe how to vote using the Uniswap platform and inform users
  
 - Once a proposal has reached the voting stage it represents real, executable code which will alter the functionality of Uniswap Governance or anything under its jurisdiction. 
  
-- Due diligence should be taken to ensure that the code represented in the proposal has been audited and is found to be in good faith.
-  
+- Due diligence should be taken when you participate in Governance discussions, making your voice heard whether or not you support the idea being presented.
   
   
 ## Resources and Tool
