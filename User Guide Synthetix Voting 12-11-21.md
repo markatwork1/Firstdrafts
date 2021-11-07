@@ -18,11 +18,11 @@
 SNX tokens represent user's share of influence over the governance process, and you can apply the voting power your portfolio represents to ensure the protocol is moving in the right direction.
   - [Official Synthetix Documentation](https://docs.synthetix.io/governance/) covering governance.
  
-
-### How to Vote on Synthetix.io
- 
 **Stay Informed**
   - Follow discussions on [Research.synthetix.io](https://research.synthetix.io/) forum.
+	
+## How to Vote on Synthetix.io
+ 
 
 **Stake SNX**
   - By staking SNX tokens users are using them as collateral to mint sUSD, a synthetic stable coin pegged to the US dollar and backed by the Synthetix network.
@@ -97,8 +97,7 @@ Engage with the Synthetix community through the Synthetix Discord Server.
 - [Forum](https://research.synthetix.io/) run by community members that facilitates research and discussion among Synthetix enthusiasts.
 
 ### Twitter
-- [The Synthetix Twitter](https://twitter.com/synthetix_io) account is a great place to find upcoming events and announcements. The Spartan Council will also keep you up to date. Then you can follow the Synthetix GrantsDAO and Synthetix Ambassadors account to dive deeper into the community.
-For updates on projects within the Synthetix ecosystem, follow the trading and futures platform Kwenta, binary options with Thales, and a complete options protocol in Lyra.
+- [The Synthetix Twitter](https://twitter.com/synthetix_io) account is a great place to find upcoming events and announcements.
 
 ### Blogs and Podcasts
 - [The official Synthetix Blog](https://blog.synthetix.io/) publishes monthly updates, information covering community calls and releases. 
