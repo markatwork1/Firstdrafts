@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://app.boardroom.info/BanklessDAO">
-    <img src="https://static.wixstatic.com/media/8e7ed0_0065e226d9944340bff93a8bb04fec15~mv2.jpg/v1/fill/w_1000,h_563,al_c,q_90,usm_0.66_1.00_0.01/8e7ed0_0065e226d9944340bff93a8bb04fec15~mv2.jpg" alt="Synthetix" width="300" />
+    <img src="https://static.wixstatic.com/media/8e7ed0_0065e226d9944340bff93a8bb04fec15~mv2.jpg/v1/fill/w_1000,h_563,al_c,q_90,usm_0.66_1.00_0.01/8e7ed0_0065e226d9944340bff93a8bb04fec15~mv2.jpg" alt="Synthetix" width="400" />
   </a>
   <h1 align="center">User Guide Uniswap Voting</h1>
   <p align="center">
