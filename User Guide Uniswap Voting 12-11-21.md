@@ -41,7 +41,9 @@ This guide will describe how to vote using the Uniswap platform and inform users
 - When you click to cast your vote, metamask will prompt you asking to confirm the transaction.
   - Click “submit”, and check that the transaction has been confirmed  
 
-- Once your transaction has been confirmed, your vote has been cast and you have participated in Uniswap Governance.
+- Once your transaction has been confirmed, your vote has been cast and you have participated in Uniswap Governance. [^1]
+	
+[^1]: UniswapDocs, "Uniswap", *https://docs.uniswap.org/protocol/concepts/governance/guide-to-voting*, Uniswap, October 30th, 2021. November 6th, 2021
 
 ## Delegating your UNI
 
