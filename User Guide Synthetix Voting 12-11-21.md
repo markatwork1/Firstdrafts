@@ -15,7 +15,7 @@
 ### <p align="center"> *User Guide for Synthetix from Mark Priddy - November 12th 2021*
   
 ## Introduction to Synthetix Voting
-SNX tokens represent user's share of influence over the governance process, and you can apply the voting power your portfolio represents to ensure the protocol is moving in the right direction.
+SNX tokens represent a user's share of influence over the governance process, and users can apply the voting power their portfolio represents to ensure the protocol is developing and progressing in the right direction.
   - [Official Synthetix Documentation](https://docs.synthetix.io/governance/) covering governance.
  
 **Stay Informed**
@@ -26,10 +26,14 @@ SNX tokens represent user's share of influence over the governance process, and 
 
 **Stake SNX**
   - By staking SNX tokens users are using them as collateral to mint sUSD, a synthetic stable coin pegged to the US dollar and backed by the Synthetix network.
-  - This not only allows users to claim trading fees collected by the protocol, it also activates your voting power so that you can provide your opinions on proposed changes. 
+  - This not only allows users to claim trading fees collected by the protocol, but also activates their voting power so that they can provide opinions on proposed changes. 
 
 **Vote at https://staking.synthetix.io/gov**
-  - Once a user has voting power from staked SNX and you have a solid understanding of the protocol and ongoing proposals, you can vote on SIPs/SCCPs and Council Member elections from the Synthetix Governance page.
+  - Once a user has voting power from staked SNX and has a solid understanding of the protocol and ongoing proposals, they can vote on SIPs/SCCPs and Council Member elections from the Synthetix Governance page. [^1]
+	
+[^1]: King, Andrew. "A Guide to Synthetix Voting for New Community Members", *https://medium.com/@akng105/a-guide-to-synthetix-voting-for-new-community-members-fa57d929b2ce*, Medium, October 30th, 2021. November 6th, 2021
+	
+
 
 
 ## The Voting Process
@@ -39,15 +43,16 @@ First, users have to stake SNX prior to the snapshot for a particular SIP before
   - On the Governance page of [synthetix.io](https://synthetix.io/), users will see “Your Voting Power (L1+L2)”, which represents the weighted debt. 
     - This is a quadratically weighted representation of a user's share of the total SNX staked and eligible for voting. 
   
-  - Users will also see “Your Delegated Voting Power." This represents a user's share of staked SNX which they've allocated to Synthetix Ambassadors so they can participate in Governance proposals from other Protocols that can benefit the Synthetix ecosystem. 
+  - Users will also see “Your Delegated Voting Power." 
+  - This represents a user's share of staked SNX which they've allocated to Synthetix Ambassadors so they can participate in Governance proposals from other Protocols that can benefit from the Synthetix ecosystem. 
   - Users can choose to delegate [here](https://synthetixembassy.io/delegate) This is not required to vote on SIPs.
     - With these completed, users can then vote. 
   
   - From the Governance page users will see the SIP/SCCP, SC, TREASURY, GRANTS, AMBASSADORS tabs. Select a tab, find a proposal in “Open” status and read the description. 
-  - Users can then select your choice of options and click “Vote”, which will initiate a Signature Request from your wallet (This does NOT require gas). 
+  - Users can then select their choice of options and click “Vote”, which will initiate a Signature Request from their wallet (This does NOT require gas). 
     - From here, the Author, Start and End dates, Snapshot block, and current results are visible in the window to the right.
 
-If you hold SNX tokens or are interested in investing in Synthetix, this is how you make your voice heard and contribute to the health of the Synthetix Community.  
+If users hold SNX tokens or are interested in investing in Synthetix, this is how they make their voice heard and contribute to the health of the Synthetix Community.  
 
  
 ### Synthetix Voting Review
@@ -57,7 +62,7 @@ If you hold SNX tokens or are interested in investing in Synthetix, this is how 
 - If the community likes an idea, the author will submit a new SIP (Synthetix Improvement Proposal) via Github. 
 
 - The draft SIP then moves through the process of review by the Spartan Council. 
-  - You can view all SIPs here: https://sips.synthetix.io/
+  - Users can view all SIPs here: https://sips.synthetix.io/
 
   - The author of a proposal usually discusses the idea with the Spartan Council to fully understand its potential impact on the system.
 
