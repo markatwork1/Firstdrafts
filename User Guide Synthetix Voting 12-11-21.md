@@ -89,17 +89,16 @@ The community votes on which members should serve in Governance Councils every e
  
 ## Resources and Tools
 
-### Discord
-Engage with the Synthetix community through the Synthetix Discord Server. 
+**Discord**
 - Monthly Community Governance Calls are hosted on [Discord](https://discord.com/invite/AEdUHzt), along with several channels used to discuss and develop ideas and proposals.
 
-### Research.synthetix.io Forum
+**Research.synthetix.io Forum**
 - [Forum](https://research.synthetix.io/) run by community members that facilitates research and discussion among Synthetix enthusiasts.
 
-### Twitter
+**Twitter**
 - [The Synthetix Twitter](https://twitter.com/synthetix_io) account is a great place to find upcoming events and announcements.
 
-### Blogs and Podcasts
+**Blogs and Podcasts**
 - [The official Synthetix Blog](https://blog.synthetix.io/) publishes monthly updates, information covering community calls and releases. 
 - Check out the [SNXweave Blog](https://snxweave.medium.com/) for weekly recaps. 
 - [SNXweave Podcast on Spotify](https://open.spotify.com/show/5RkXS9nwyfkwQsnt7svavX) 
