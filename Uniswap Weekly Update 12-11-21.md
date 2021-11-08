@@ -4,14 +4,14 @@
   </a>
   <h1 align="center">Uniswap Weekly Update</h1>
   <p align="center">
-    November 5th, 2021
+    November 12th, 2021
   <br />
   <a href="http://app.boardroom.info/BanklessDAO"><strong>View in the Portal »</strong></a>
   <br />
   </p>
 </p>
 
-### <p align="center"> *New Weekly Update for Uniswap from Mark Priddy November 1st - November 5th 2021*
+### <p align="center"> *New Weekly Update for Uniswap from Mark Priddy November 8th - November 12th 2021*
 
 
 
@@ -19,16 +19,17 @@
 
 ## Summary
 
-- Uniswap Community Call 13 took place November 3rd, 2021
+- Unicode Hackathon Autumn 2021 Judging took place November 8th, 2021
 
-- [Unicode Hackathon](https://unicode.ethglobal.com/) started today October 29th and will run through November 10th
+- [Unicode Hackathon](https://unicode.ethglobal.com/) concluded November 10th
 
 - Unicode Events going on daily in the [ETHGlobal Discord](https://discord.com/invite/ethglobal)
 
-- New interview posted in Uniswap Disccusions - MEP of the Czech Republic Ondřej KOVAŘÍK who is a member of the Economic Committee in the European Parliament. 
-  - In particular, the interview goes deeper into the upcoming crypto regulation MiCA and its impact.
-
 - New recommendation discussion for Uniswap to do a cross chain DEX
+	
+-
+
+- 
 
 ## Proposals
 
@@ -40,7 +41,7 @@
 
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
-| Add 1 Basis Point Fee Tier | Proposal | [Vote](https://app.uniswap.org/#/vote/2/9)
+| ------- | -------| [Vote](---------)
 	
 
 ### Recent Votes
@@ -48,40 +49,25 @@
 
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
-| DEF Snapshot Proposal | Moving Assets | [No](https://gov.uniswap.org/t/moving-defs-assets-to-an-on-chain-custodial-wallet-to-bolster-security/14328)
+| ------- | -------| [Vote](-------)
 
 	
-- "Uniswap should add a 1bps fee tier with 1 tick spacing. This change is straightforward from a technical perspective and would help Uniswap compete in stablecoin to stablecoin pairs, where the majority of the market share is taken by Curve and DODO." [^1]
+-  [^1]
 	
 [^1]: Uniswap, "Uniswap Governance", *https://gov.uniswap.org/t/proposal-add-1-basis-point-fee-tier/14745*, gov.uniswap.org, November 2nd, 2021. November 4th, 2021
 
 ## Forum Summary
 
-- Wijuwiju and Boris presented two topics in the most Community Call
-	
-  - [Improving Uniswap Token List](https://uniswap.org/blog/token-lists/) and Discussing New Tool for custom user token list
-	
-  - Reminder that Wijuwiju creates [Uniletters](https://uniletters.substack.com/) covering governance and discussions in the Uniswap Community
-	
-  - Also curated [Twitter List](https://twitter.com/i/lists/1455137581772034048) including all the people who work at Uniswap Labs and are the top delegators and developers
-
-- During November 3rd Community Call they brought up the impact of adding 1 Basis Point Fee Tier and would it be different or impact the different scaling solutions for the blockchain
-
-- Ethelo usability is an ongoing discussion
-
-- Discussing including BED Index as a governance token is ongoing
-
-- Unicode Hackathon is ongoing and will go through November 10th
-	
-- Moving DeFi Education Fund’s assets to an on-chain custodial wallet to bolster security proposal was rejected
+- 
 
 ### New Discussions
 
 
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
-| Quadratic Voting | Proposal Discussion | [Discuss](https://gov.uniswap.org/t/quadratic-voting/2428/4)
-	
+| Should Uniswap incentivize Liquidity on Optimism and Arbitrum? | Temperature Check | [Discuss](https://gov.uniswap.org/t/temperature-check-should-uniswap-incentivize-liquidity-on-optimism-and-arbitrum/14804)
+
+- Discussion stating Uniswap governance should start incentivizing liquidity on its Arbitrum and Optimism deployments to kickstart adoption of Ethereum Layer-2
 	
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
@@ -91,12 +77,27 @@
 	
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
-| Interview with a member of the European Parliament | EU Regulation MiCA | [Discuss](https://gov.uniswap.org/t/eu-regulation-mica-interview-with-a-member-of-the-european-parliament/14675)	
+| -------| -------| [Discuss](-------)	
 
 	
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
-| Uniswap is recommended to do cross chain DEX | Proposal Discussion | [Discuss](https://gov.uniswap.org/t/uniswap-is-recommended-to-do-cross-chain-dex/14682)	
+|-------| ------- | [Discuss](-------)	
+	
+	
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
+|-------| ------- | [Discuss](-------)	
+	
+	
+	| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
+|-------| ------- | [Discuss](-------)	
+	
+	
+	| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
+|-------| ------- | [Discuss](-------)	
 	
 	
 ### Ongoing Discussions
@@ -104,21 +105,22 @@
 
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
-| Bed INDEX Proposal | Governance Tokens | [Discuss](https://gov.uniswap.org/t/bed-index-proposal/14562)   |
+| Airdrop Exclusions | Rewarding Proxy Contracts | [Discuss](https://gov.uniswap.org/t/retroactive-airdrop-excludes-proxy-contract-users-e-g-dharma-matcha-etc/1222)   |
 	
 	
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
-| Ethelo Platform | New Governance Tool | [Ethelo Platform](https://ethelo.com/)
-	
+| Quadratic Voting | Governance Voting | [Discuss](https://gov.uniswap.org/t/quadratic-voting/2428)
+
+- Quadratic voting is a way of handling the governance voting process so that more power is given to the masses but at the same time rewarding highly interested individuals
 	
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
-| Add 1 Basis Point Fee Tier | Consensus Check | [Discuss](https://gov.uniswap.org/t/consensus-check-add-1-basis-point-fee-tier/14612)
+| ------- | ------- | [Discuss](-------)
 
 ## Other Updates
 
-- [Cointelegraph article](https://cointelegraph.com/news/defi-strategists-and-investors-stand-to-gain-from-a-permissionless-quantitative-strategy-platform-built-on-uniswap-v3) mentioning Uniswap V3 and the Bella Protocol
+- 
   
   
   
