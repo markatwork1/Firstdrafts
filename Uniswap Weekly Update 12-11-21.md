@@ -27,8 +27,10 @@
 
 - New recommendation discussion for Uniswap to do a cross chain DEX
 	
--
+- Add 1 Basis Point Fee Tier Vote ended November 10th
 
+- Incentivizing more liquidity of Layer 2
+	
 - 
 
 ## Proposals
@@ -41,18 +43,10 @@
 
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
-| ------- | -------| [Vote](---------)
-	
+| Add 1 Basis Point Fee Tier | Proposal | [Vote](https://app.uniswap.org/#/vote/2/9)
 
-### Recent Votes
-	
-
-| Name          | Category      | Link   |
-| ------------- |:-------------:| :-----:|
-| ------- | -------| [Vote](-------)
-
-	
--  [^1]
+- Almost Confirmed Passed
+- "Uniswap should add a 1bps fee tier with 1 tick spacing. This change is straightforward from a technical perspective and would help Uniswap compete in stablecoin to stablecoin pairs, where the majority of the market share is taken by Curve and DODO." [^1]
 	
 [^1]: Uniswap, "Uniswap Governance", *https://gov.uniswap.org/t/proposal-add-1-basis-point-fee-tier/14745*, gov.uniswap.org, November 2nd, 2021. November 4th, 2021
 
@@ -90,12 +84,12 @@
 |-------| ------- | [Discuss](-------)	
 	
 	
-	| Name          | Category      | Link   |
+| Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
 |-------| ------- | [Discuss](-------)	
 	
 	
-	| Name          | Category      | Link   |
+| Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
 |-------| ------- | [Discuss](-------)	
 	
@@ -106,7 +100,9 @@
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
 | Airdrop Exclusions | Rewarding Proxy Contracts | [Discuss](https://gov.uniswap.org/t/retroactive-airdrop-excludes-proxy-contract-users-e-g-dharma-matcha-etc/1222)   |
-	
+
+- Unfortunately, the way the retroactive airdrop was architected seemed to make a slight oversight in the snapshotting process — only addresses which directly called the Uniswap contracts were considered to be users
+- This would propose to exist to expand the UNI retroactive airdrop to those who used Uniswap through proxy contracts before Sept. 1st
 	
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
@@ -116,7 +112,9 @@
 	
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
-| ------- | ------- | [Discuss](-------)
+| Fee switch date approaching | Temperature Check | [Discuss](https://gov.uniswap.org/t/fee-switch-date-approaching-time-to-act/10418)
+
+- The topic of the fee switch has died down with the SEC conducting a formal probe of the Uniswap Labs
 
 ## Other Updates
 
