@@ -23,9 +23,9 @@
 
 - [Unicode Hackathon](https://unicode.ethglobal.com/) concluded November 10th
 
-- Unicode Events going on daily in the [ETHGlobal Discord](https://discord.com/invite/ethglobal)
+- Unicode Events via [ETHGlobal Discord](https://discord.com/invite/ethglobal)
 
-- New recommendation discussion for Uniswap to do a cross chain DEX
+- Rewarding all Uniswap users, even those who used proxy contracts prior to September 1st, 2021
 	
 - Add 1 Basis Point Fee Tier Vote ended November 10th
 
