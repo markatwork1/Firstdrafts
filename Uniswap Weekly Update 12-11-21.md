@@ -71,8 +71,9 @@
 	
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
-| -------| -------| [Discuss](-------)	
+| Uniswap Protocol Brand Update | Request for Comment | [Discuss](https://gov.uniswap.org/t/uniswap-protocol-brand-update-request-for-comment/14822)	
 
+- <img src="https://aws1.discourse-cdn.com/business6/uploads/uniswap1/original/2X/c/cb017e2794ca88bcd2eb434d273fcbbe22e66ae9.png" alt="Uniswap Grants" width="400" /> 
 	
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
@@ -118,7 +119,7 @@
 
 ## Other Updates
 
-- 
+- [Official Rules for the Uniswap Governance Forum](https://gov.uniswap.org/t/uniswap-governance-forum-rules/5142)
   
   
   
