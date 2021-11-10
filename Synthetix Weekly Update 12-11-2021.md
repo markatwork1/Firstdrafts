@@ -16,76 +16,95 @@
 
 ## Discord Announcements
 	
-[November 2nd Recap Blog]()
+[November 9th Recap Blog](https://snxweave.medium.com/snxweave-weekly-recap-633e53c3783a)
 
-[On Spotify]()
+[On Spotify](https://open.spotify.com/episode/7sMpT45kNeq7rBCKpvzp8V)
 
 - **Reminder that a New Voting Guide** was released for new Synthetix Community Members [here](https://medium.com/@akng105/a-guide-to-synthetix-voting-for-new-community-members-fa57d929b2ce)
 
-- [SIP-147](https://sips-dwdvhvxwr-synthetixio.vercel.app/sccp/sccp-147/) was discussed and is the proposal to rollout the DAI wrapper on L2 as an attempt to meet the sUSD demand. 
-  - This was an emergency governance meeting on November 5th to work through options for the sUSD peg on L2
+- [SIP-120](https://sips.synthetix.io/sips/sip-120) ready to make final pull request after final work is complete. 
+	
+  - [L2 Bridged Governance](https://sips.synthetix.io/sips/sip-167) delayed but still progressing
+
+- [Avior](https://blog.synthetix.io/the-avior-release/) is released and the next release name will be titled Alkaid
 	
 ## Governance
 
 ### Spartan Council and Core Contributor Committee
 
-- New proposal by Afif [SIP-188](https://sips.synthetix.io/sips/sip-188) to add a synth for sETHBTC
-  - Drafting a second proposal which will propose adjusting the fees for synth-to-synth trading by charging fees between non-sUSD pairs as if they are trading through sUSD first
+- [SIP-184](https://sips.synthetix.io/sips/sip-184): Adds a dynamic fee in addition to base exchange fees that responds to and neutralizes oracle frontrunning opportunities.
 	
-- The Wrappr Factory [SIP-182](https://sips.synthetix.io/sips/sip-182/) was implemented Thursday October 28th 	
-  - Proposed a new abstract factory contract that can deploy new wrappers as needed, rather than creating another distinct SIP and contract for each new token to be added in the future	
-  - It will be starting with ETH and LINK, and then each new Wrappr instance can be introduced to the factory via a SIP
-  - [SCCP-143](https://sips.synthetix.io/sccp/sccp-143/) to raise the L2 ETH wrapper cap to 1,500 ETH and lower minting fees just passed
+  - "Afif agreed that if SIP-184 isn’t ready in time for the next test-net competition, then there should be a keeper ready to use. Or else, perhaps it would just be better to wait to do the next competition until 184 is ready. For this reason, the Council is examining whether or not it’s feasible for the Dynamic Exchange Fees SIP to be accelerated."[^1]
+
+[^1]: SNXWeave, "SNXweave Weekly Recap", *https://snxweave.medium.com/snxweave-weekly-recap-633e53c3783a*, Medium, November 9th, 2021. November 9th, 2021
 	
-- [SCCP-142](https://sips.synthetix.io/sccp/sccp-142/) discussed which will increase L2 inflationary rewards from 50k to 75k SNX weekly
-  - Will be voted on soon
+- [Futures](https://sips.synthetix.io/sips/sip-80/) feature is almost ready and there will be another test-net competition after the regenesis, and then all of the parameters should be finalized for Futures to go up on Mainnet.
+	
+- [Debt Pool Oracle](https://sips.synthetix.io/sips/sip-156) progressing but a discussion needs to happen with Chainlink to move this SIP forward.
+	
+- A new proposal will come out soon that will provide augmentation for the wrappr factory on L1
+	
+- [Debt Pool Unification](https://sips.synthetix.io/sips/sip-165) and [Debt Shares](https://sips.synthetix.io/sips/sip-185) should be implemented by the end of the year.
+	
+  - A discussion still needs to take place around what the debt pool unification will look like.
+	
+  - Once the other two SIPs are completed, it will open up the possibility of finally unifying the debt pool.
 	
 	
 ### GrantsDAO
 
-- The full budget for this epoch has been received from the Treasury Council, so the gDAO is now able to move forward with projects
-
-- One of the grantDAO’s projects is a [debt hedging bot](https://medium.com/@SynthetixGrants/synthetix-debt-hedging-bot-458fca8b0f4b) that stakers can use to automatically hedge their debt externally
-  - With the Heroku integration, this bot is going to be much easier to use
- 
-- [Teleportr](https://medium.com/@SynthetixGrants/teleport-eth-to-optimism-with-teleportr-f6b1b719736c) is back up and running after it was incorrectly labeled as a phishing site
-  - Proves the need for decentralized hosting services
-
-- Tools.Synthetix is one of the grantsDAO’s ongoing initiatives that will organize different tools that directly and indirectly help the Synthetix community in an accessible format
-  - Waiting on concept design for this site
+- the team has been exploring possible ideas to incentivize stakers to migrate over to L2 from L1
 	
-- Working on a way to do keeper trades for low volume synths	
-  - Synth circuit breaker was initially added in [SIP-55](https://sips.synthetix.io/sips/sip-55/) in order to protect the integrity of the system. "However, when a synth that isn’t traded too often exhibits this price move of 25% or more, this wrongly triggers the circuit breaker and it gets paused for trading, possibly resulting in losses for traders."[^1]	
-  - gDAO working on a solution that will involve having keepers trade a low-volume synth if it hasn’t been traded for X amount of time, and oracle reports the price with Y delta from the last traded price.
+- gDAO NFT project news should be coming out soon as collaborations with Universe and ARCx progress
 	
-[^1]: SNXWeave, "SNXweave Weekly Recap", *https://snxweave.medium.com/snxweave-weekly-recap-af98e1000e8c*, Medium, November 2nd, 2021. November 3rd, 2021
+- New gDAO site pull request officially submitted
+	
+- Heroku integration for the hedging bot is also almost complete.
+	
+- [The gDAO is looking to hire a smart contract developer](https://medium.com/@SynthetixGrants/buy-snx-to-fix-c-ratio-dapp-bd8bd351205f) to create a smart contract tool that enables Synthetix stakers to fix their c-ratio by buying SNX.  
+  - Submit a grant proposal [here](https://grants.synthetix.io/grants/grant-application)
+	
+- The 300 group looking for new ways to engage with Synthetix Community to start unique discussions and build unique perspectives.
+	
 	
 ### AmbassadorsDAO
 
-- First City Hall with the Spartan Council and Lyra [recording here](https://anchor.fm/synthetix/episodes/SD032---Spartan-City-Hall-1---Lyra-e19fq3e)
+- Next Spartan City Hall is Thursday 23:59 UTC November 18th, 2021 and the Hop Protocol will be the guest
+	
+- Decided to lift the deadline for claiming rewards from the Governance Participation Program
+  - Delegators can now claim anytime
 
-- Spartan City Hall happening regularly and will take place in the public Synthetix Stage in [Discord](https://discord.gg/bq3V9brMQV)
+- Ambassadors can likely create more value by focusing more on the culture aspect of Synthetix and the wider community	
+	
+- 2 New Blog Posts will be released soon
+ 
+  - First will detail the results of the Governance Participation Program
+	
+  - Second will cover the aDAO’s upcoming initiatives and how they will be focusing on the social side of things for the short-term
+	
 
 ## Summary
 
-- [SIP-182](https://sips.synthetix.io/sips/sip-182/) was implemented Thursday October 28th
+- [SIP-120](https://sips.synthetix.io/sips/sip-120) approved but not implemented
 
-- [SIP-187](https://sips.synthetix.io/sips/sip-187/) approved last week
-
--  Working on [SCCP-143](https://sips.synthetix.io/sccp/sccp-143/) to support the new Wrappr Factory per [SIP-182](https://sips.synthetix.io/sips/sip-182/)
+- [SIP-167](https://sips.synthetix.io/sips/sip-167) approved and still testing to ensure its secure
 	
-- [SCCP-142](https://sips.synthetix.io/sccp/sccp-142/) is an ongoing discussion with votes pending
+- [SIP-184](https://sips.synthetix.io/sips/sip-184) for Dynamic Exchange Fees approved but will not make it to the next release, Alkaid.
+	
+- [SIP-80](https://sips.synthetix.io/sips/sip-80/) for Futures is in a feasibility stage to understand how it effects existing services.   
+	
+- [SIP-156](https://sips.synthetix.io/sips/sip-156) still being drafted and specs checked for the Debt Pool Oracle
+	
+- [SIP-165](https://sips.synthetix.io/sips/sip-165) for Debt Pool Unification being drafted and a discussion is needed to create an abstract for this idea or at least how it will look
 
-- [SIP-120](https://sips.synthetix.io/sips/sip-120) Atomic Exchange Function approved
-
-- [SIP-188](https://sips.synthetix.io/sips/sip-188) still being drafted
+- [SIP-185](https://sips.synthetix.io/sips/sip-185) Spartan Council review pending
 	
 	
 ## Additional Research
 
 - All Synthetix Improvement Proposals [here](https://sips.synthetix.io/all-sip/)
 
-- Kain Warwick received a mention in a [November 2nd Cointelegraph article](https://cointelegraph.com/news/crypto-founders-top-young-australian-rich-list)
+- Additional [tweet from Kain](https://t.co/wCfC25IjDJ) on the Bounty to create a working LUSD bridge to Optimism
 
 <p align="center">
   <a href="http://app.boardroom.info/">
