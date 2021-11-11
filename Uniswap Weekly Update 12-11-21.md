@@ -30,14 +30,8 @@
 - Add 1 Basis Point Fee Tier Vote ended November 10th
 
 - Incentivizing more liquidity of Layer 2
-	
-- 
 
 ## Proposals
-
-	
-
-
 	
 ### Live Votes
 
@@ -46,14 +40,17 @@
 | Add 1 Basis Point Fee Tier | Proposal | [Vote](https://app.uniswap.org/#/vote/2/9)
 
 - Almost Confirmed Passed
+	
 - "Uniswap should add a 1bps fee tier with 1 tick spacing. This change is straightforward from a technical perspective and would help Uniswap compete in stablecoin to stablecoin pairs, where the majority of the market share is taken by Curve and DODO." [^1]
 	
 [^1]: Uniswap, "Uniswap Governance", *https://gov.uniswap.org/t/proposal-add-1-basis-point-fee-tier/14745*, gov.uniswap.org, November 2nd, 2021. November 4th, 2021
 
 ## Forum Summary
 
-- 
-
+- Discussion stating Uniswap governance should start incentivizing liquidity on its Arbitrum and Optimism deployments to kickstart adoption of Ethereum Layer-2
+	
+- New proposal discussion endorsing the idea of Uniswap Governance backing the creation of a crypto-native community-managed algorithmic unit of account as an alternative to “stable coins."	
+	
 ### New Discussions
 
 
@@ -61,41 +58,19 @@
 | ------------- |:-------------:| :-----:|
 | Should Uniswap incentivize Liquidity on Optimism and Arbitrum? | Temperature Check | [Discuss](https://gov.uniswap.org/t/temperature-check-should-uniswap-incentivize-liquidity-on-optimism-and-arbitrum/14804)
 
-- Discussion stating Uniswap governance should start incentivizing liquidity on its Arbitrum and Optimism deployments to kickstart adoption of Ethereum Layer-2
 	
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
 | Should defi platforms replace the USD as a unit of account? | Proposal Discussion | [Discuss](https://gov.uniswap.org/t/proposal-discussion-should-defi-platforms-replace-the-usd-as-a-unit-of-account/14741)
 
-- New proposal discussion endorsing the idea of Uniswap Governance backing the creation of a crypto-native community-managed algorithmic unit of account as an alternative to “stable coins."
 	
 | Name          | Category      | Link   | 
 | ------------- |:-------------:| :-----:|
 | Uniswap Protocol Brand Update | Request for Comment | [Discuss](https://gov.uniswap.org/t/uniswap-protocol-brand-update-request-for-comment/14822) 
 
 
-<img align="right" width="50%" height="50%" src="https://aws1.discourse-cdn.com/business6/uploads/uniswap1/original/2X/c/cb017e2794ca88bcd2eb434d273fcbbe22e66ae9.png">
-	
-| Name          | Category      | Link   |
-| ------------- |:-------------:| :-----:|
-|-------| ------- | [Discuss](-------)	
-	
-	
-| Name          | Category      | Link   |
-| ------------- |:-------------:| :-----:|
-|-------| ------- | [Discuss](-------)	
-	
-	
-| Name          | Category      | Link   |
-| ------------- |:-------------:| :-----:|
-|-------| ------- | [Discuss](-------)	
-	
-	
-| Name          | Category      | Link   |
-| ------------- |:-------------:| :-----:|
-|-------| ------- | [Discuss](-------)	
-	
-	
+<img src="https://aws1.discourse-cdn.com/business6/uploads/uniswap1/original/2X/c/cb017e2794ca88bcd2eb434d273fcbbe22e66ae9.png" width="50%" height="50%">
+		
 ### Ongoing Discussions
 
 
@@ -104,6 +79,7 @@
 | Airdrop Exclusions | Rewarding Proxy Contracts | [Discuss](https://gov.uniswap.org/t/retroactive-airdrop-excludes-proxy-contract-users-e-g-dharma-matcha-etc/1222)   |
 
 - Unfortunately, the way the retroactive airdrop was architected seemed to make a slight oversight in the snapshotting process — only addresses which directly called the Uniswap contracts were considered to be users
+	
 - This would propose to exist to expand the UNI retroactive airdrop to those who used Uniswap through proxy contracts before Sept. 1st
 	
 | Name          | Category      | Link   |
@@ -121,9 +97,6 @@
 ## Other Updates
 
 - [Official Rules for the Uniswap Governance Forum](https://gov.uniswap.org/t/uniswap-governance-forum-rules/5142)
-  
-  
-  
   
   <p align="center">
   <a href="http://app.boardroom.info/">
