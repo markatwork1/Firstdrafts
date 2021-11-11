@@ -69,6 +69,8 @@
 	
 ### AmbassadorsDAO
 
+- HOP Protocol was a guest on Synthetix Discord November 11th, 2021 to for an AMA on the [Hop.exchange](https://hop.exchange/)
+
 - Next Spartan City Hall is Thursday 23:59 UTC November 18th, 2021 and the Hop Protocol will be the guest
 	
 - Decided to lift the deadline for claiming rewards from the Governance Participation Program
