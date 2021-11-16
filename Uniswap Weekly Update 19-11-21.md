@@ -21,29 +21,44 @@
 
 - Uniswap Community Call 14 took place November 17th, 2021
 
-- [Web3 Jam Hackathon]() started today November 12th and will run through November 24th
+- [Web3 Jam Hackathon](https://jam.ethglobal.com/) started today November 12th and will run through November 24th
 
 - Web3 Jam Events going on daily in the [ETHGlobal Discord](https://discord.com/invite/ethglobal)
 
-- 
-  - 
-
-- 
+### **New Additions to Proposal Discussions**
+  - The Unit as a replacement for stablecoins
+  - Add 1 Basis Point Fee Tier (Voted Yes)
+  - BED Index Proposal
 
 ## Proposals
 
-	
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
+| Deploy Uniswap V3 to Boba Network | Proposal Discussion | [Discuss](https://gov.uniswap.org/t/quadratic-voting/2428/4)	
 
-
+- "Boba Network is an Optimistic Rollup, likely launching next week, built on Optimism with added features including native fast exits, hybrid compute, and a token (OMG)."[^1]
 	
-### Live Votes
+[^1]: Uniswap, "Uniswap Governance", *https://gov.uniswap.org/t/deploy-uniswap-v3-to-boba-network/14151*, gov.uniswap.org, September 14th, 2021. November 16th, 2021
+
 
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
-| Add 1 Basis Point Fee Tier | Proposal | [Vote](https://app.uniswap.org/#/vote/2/9)
+| Should defi platforms replace the USD as a unit of account? | Proposal Discussion | [Discuss](https://gov.uniswap.org/t/proposal-discussion-should-defi-platforms-replace-the-usd-as-a-unit-of-account/14741)
+
+- New proposal discussion endorsing the idea of Uniswap Governance backing the creation of a crypto-native community-managed algorithmic unit of account as an alternative to “stable coins."	
+	
+### Live Votes
+
+- No live votes as of Novemeber 18th, 2021
 	
 
 ### Recent Votes
+
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
+| Add 1 Basis Point Fee Tier | Proposal | [Yes](https://app.uniswap.org/#/vote/2/9)
+
+- During November 3rd Community Call they brought up the impact of adding 1 Basis Point Fee Tier and would it be different or impact the different scaling solutions for the blockchain	
 	
 
 | Name          | Category      | Link   |
@@ -51,33 +66,43 @@
 | DEF Snapshot Proposal | Moving Assets | [No](https://gov.uniswap.org/t/moving-defs-assets-to-an-on-chain-custodial-wallet-to-bolster-security/14328)
 
 	
-- "Uniswap should add a 1bps fee tier with 1 tick spacing. This change is straightforward from a technical perspective and would help Uniswap compete in stablecoin to stablecoin pairs, where the majority of the market share is taken by Curve and DODO." [^1]
-	
-[^1]: Uniswap, "Uniswap Governance", *https://gov.uniswap.org/t/proposal-add-1-basis-point-fee-tier/14745*, gov.uniswap.org, November 2nd, 2021. November 4th, 2021
-
 ## Forum Summary
 
-- Wijuwiju and Boris presented two topics in the most Community Call
 	
-  - [Improving Uniswap Token List](https://uniswap.org/blog/token-lists/) and Discussing New Tool for custom user token list
+- (Presenters) presented (number of topics) topics in the most recent Community Call
+	
+  - Bed Index Discussion still active
 	
   - Reminder that Wijuwiju creates [Uniletters](https://uniletters.substack.com/) covering governance and discussions in the Uniswap Community
 	
-  - Also curated [Twitter List](https://twitter.com/i/lists/1455137581772034048) including all the people who work at Uniswap Labs and are the top delegators and developers
+  - Wijuwiju also created [Twitter List](https://twitter.com/i/lists/1455137581772034048) including all the people who work at Uniswap Labs and are the top delegators and developers
 
-- During November 3rd Community Call they brought up the impact of adding 1 Basis Point Fee Tier and would it be different or impact the different scaling solutions for the blockchain
+- There is currently no roadmap for the Uniswap token
 
-- Ethelo usability is an ongoing discussion
+- New discussion posted in Uniswap governance with community's thoughts on the first UNI airdrop
 
-- Discussing including BED Index as a governance token is ongoing
-
-- Unicode Hackathon is ongoing and will go through November 10th
+- Web3 Jam Hackathon is ongoing and will go through November 24thth
 	
-- Moving DeFi Education Fund’s assets to an on-chain custodial wallet to bolster security proposal was rejected
+- BED Inf
 
+	
 ### New Discussions
 
+	
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
+| Have we strayed from the marked roadmap? | Community Question | [Discuss](https://gov.uniswap.org/t/have-we-strayed-from-the-marked-roadmap/14976)
 
+- Currently, there is no road map
+	
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
+| Thoughts on the first Airdrop | Community Question | [Discuss](https://gov.uniswap.org/t/what-do-you-think-of-the-initial-airdrop/11164)
+
+	
+### Ongoing Discussions
+
+	
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
 | Quadratic Voting | Proposal Discussion | [Discuss](https://gov.uniswap.org/t/quadratic-voting/2428/4)
@@ -85,40 +110,12 @@
 	
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
-| Should defi platforms replace the USD as a unit of account? | Proposal Discussion | [Discuss](https://gov.uniswap.org/t/proposal-discussion-should-defi-platforms-replace-the-usd-as-a-unit-of-account/14741)
+| Bed INDEX Proposal | Governance Tokens | [Discuss](https://gov.uniswap.org/t/bed-index-proposal/14562)
 
-- New proposal discussion endorsing the idea of Uniswap Governance backing the creation of a crypto-native community-managed algorithmic unit of account as an alternative to “stable coins."
-	
-| Name          | Category      | Link   |
-| ------------- |:-------------:| :-----:|
-| Interview with a member of the European Parliament | EU Regulation MiCA | [Discuss](https://gov.uniswap.org/t/eu-regulation-mica-interview-with-a-member-of-the-european-parliament/14675)	
-
-	
-| Name          | Category      | Link   |
-| ------------- |:-------------:| :-----:|
-| Uniswap is recommended to do cross chain DEX | Proposal Discussion | [Discuss](https://gov.uniswap.org/t/uniswap-is-recommended-to-do-cross-chain-dex/14682)	
-	
-	
-### Ongoing Discussions
-
-
-| Name          | Category      | Link   |
-| ------------- |:-------------:| :-----:|
-| Bed INDEX Proposal | Governance Tokens | [Discuss](https://gov.uniswap.org/t/bed-index-proposal/14562)   |
-	
-	
-| Name          | Category      | Link   |
-| ------------- |:-------------:| :-----:|
-| Ethelo Platform | New Governance Tool | [Ethelo Platform](https://ethelo.com/)
-	
-	
-| Name          | Category      | Link   |
-| ------------- |:-------------:| :-----:|
-| Add 1 Basis Point Fee Tier | Consensus Check | [Discuss](https://gov.uniswap.org/t/consensus-check-add-1-basis-point-fee-tier/14612)
 
 ## Other Updates
 
-- [Cointelegraph article](https://cointelegraph.com/news/defi-strategists-and-investors-stand-to-gain-from-a-permissionless-quantitative-strategy-platform-built-on-uniswap-v3) mentioning Uniswap V3 and the Bella Protocol
+- [Tweet from Uniswap Labs](https://twitter.com/Uniswap/status/1458902700259786756?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet) asking what features everyone would like to see in the Uniswap interface
   
   
   
