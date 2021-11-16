@@ -25,10 +25,11 @@
 
 - Web3 Jam Events going on daily in the [ETHGlobal Discord](https://discord.com/invite/ethglobal)
 
-### **New Additions to Proposal Discussions**
-  - The Unit as a replacement for stablecoins
-  - Add 1 Basis Point Fee Tier (Voted Yes)
-  - BED Index Proposal
+- The Unit as a replacement for stablecoins
+  
+- Add 1 Basis Point Fee Tier (Voted Yes)
+  
+- BED Index Proposal and Quadratic Voting Discussion Ongoing
 
 ## Proposals
 
