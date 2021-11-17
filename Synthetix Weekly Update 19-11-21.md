@@ -85,6 +85,10 @@
   - Community members may delegate $ENS to the aDAO multi-sig to help support their mission
 
 ## Summary
+	
+- New [SIP-183](https://sips.synthetix.io/sips/sip-183) on the Kwenta Funding Request being drafted
+	
+- New [SIP-301](https://sips.synthetix.io/sips/sip-301) to Add Synth Supply Caps
 
 - [SIP-120](https://sips.synthetix.io/sips/sip-120) experienced unexpected delay due to some minor changes that needed to be audited again.
 
