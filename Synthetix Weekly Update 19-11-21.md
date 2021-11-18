@@ -19,6 +19,8 @@
 [November 16th Recap Blog](https://snxweave.medium.com/?p=db1b418d623)
 
 [On Spotify](https://open.spotify.com/episode/4394nKGb28LAugmC0i54K4)
+	
+- Aelin Protocol presented as guest in the Spartan City Hall Novemeber 17th, 2021
 
 - **Reminder that a New Voting Guide** was released for new Synthetix Community Members [here](https://medium.com/@akng105/a-guide-to-synthetix-voting-for-new-community-members-fa57d929b2ce)
 
