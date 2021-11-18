@@ -88,6 +88,15 @@
 
 	
 ### New Discussions
+	
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
+| Diamond Hand Staking Model | Temperature Check | [Discuss](https://gov.uniswap.org/t/uni-rewards-how-to-distribute-uni-reward-tokens-best/14989)
+
+	
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
+| Reduce amount of UNIs required to submit governance proposal | Proposal Discussion | [Discuss](https://gov.uniswap.org/t/proposal-reduce-amount-of-unis-required-to-submit-governance-proposal/3320)
 
 	
 | Name          | Category      | Link   |
