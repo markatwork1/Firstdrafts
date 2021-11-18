@@ -82,9 +82,7 @@
 
 - New discussion posted in Uniswap governance with community's thoughts on the first UNI airdrop
 
-- Web3 Jam Hackathon is ongoing and will go through November 24thth
-	
-- BED Inf
+- Web3 Jam Hackathon is ongoing and will go through November 24th
 
 	
 ### New Discussions
