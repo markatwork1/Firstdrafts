@@ -5,22 +5,25 @@
   </a>
   <h1 align="center">Synthetix Weekly Update</h1>
   <p align="center">
-    November 19th, 2021
+    November 26th, 2021
   <br />
   <a href="http://app.boardroom.info/BanklessDAO"><strong>View in the Portal »</strong></a>
   <br />
   </p>
 </p>
 
-### <p align="center"> *New Weekly Update for Synthetix from Mark Priddy November 15th 2021 - November 19th 2021*
+### <p align="center"> *New Weekly Update for Synthetix from Mark Priddy November 22nd 2021 - November 26th 2021*
 
 ## Discord Announcements
 	
-[November 16th Recap Blog](https://snxweave.medium.com/?p=db1b418d623)
+[November 23rd Recap Blog](https://snxweave.medium.com/snxweave-weekly-recap-73901245b015)
 
-[On Spotify](https://open.spotify.com/episode/4394nKGb28LAugmC0i54K4)
+[On Spotify](https://open.spotify.com/episode/3WFxVftZnAijJzmVD34LNz)
 	
-- Aelin Protocol presented as guest in the Spartan City Hall Novemeber 17th, 2021
+- The Alkaid release is out with [SIP-120](https://sips.synthetix.io/sips/sip-120/) implemented
+  - [SIP-182](https://sips.synthetix.io/sips/sip-182/) with the Wrappr Factory included with this release on L1
+	
+- [SIP-167](https://sips.synthetix.io/sips/sip-167) was released November 23rd and [SIP-184](https://sips.synthetix.io/sips/sip-184) will be out in the next couple weeks for phase 1 of the [v2x roadmap](https://blog.synthetix.io/v2x-revisited/)
 
 - **Reminder that a New Voting Guide** was released for new Synthetix Community Members [here](https://medium.com/@akng105/a-guide-to-synthetix-voting-for-new-community-members-fa57d929b2ce)
 
@@ -32,81 +35,89 @@
 
 ### Spartan Council and Core Contributor Committee
 
-- Optimism’s regenesis this past Thursday was successful
+- [Futures](https://sips.synthetix.io/sips/sip-80/) per SIP-80 
+  - The Council recognizes that there hasn't been a lot of new information on this SIP but Dynamic Exchange Fees needs to be audited and next price fee fulfillment is necessary for it's release.	
+- Most likely will not have another testnet competition as long as they can test Dynamic Fees on testnet internally
 
-- A discussion took place to identify the next step for the [LUSD wrapper](https://sips.synthetix.io/sips/sip-189/) November 16th 2021 in Discord
+- In regards to the next price fulfillment, Core Contributor Arthur has been reworking some of the logic from the old code. 
+  - There will also be built-in slippage protection, so orders won’t go through if the price moves too much
 	
-- Release of [Dynamic Exchange Fees](https://sips.synthetix.io/sips/sip-184) needs to be audited but should be out within a few weeks
+- Once these SIPs are completed, the team will be moving into phase 2 of the v2x roadmap
 	
-- [SIP-80](https://sips.synthetix.io/sips/sip-80/) will be on Mainnet L2 soon. 
-  - It will be a beta version because the max open interest is going to be kept constrained early
+- [SIP-146](https://sips.synthetix.io/sips/sip-301/) and [SIP-181](https://sips.synthetix.io/sips/sip-303/) have been reorganized to be a part of the v3 roadmap but were originally a part of phase 2. 146 is now 301 and 181 is now 303 in order to get as much of the v2x completed before the new year.
+  
+  - "Kain will be writing up a debt synthesis overview, which will detail the various components of the debt pool merge, what the sequence of events will be, etc. so that everyone is familiar with what the process will look like, which SIPs are being implemented, and how it will happen." [^1]
+[^1]: SNXWeave, "SNXweave Weekly Recap", *https://snxweave.medium.com/snxweave-weekly-recap-73901245b015*, Medium, November 23rd, 2021. November 23rd, 2021
 	
-  - Dynamic Fees will need to be ready in order to mitigate frontrunning risk before the full version of Futures is rolled out
-	
-  - "There will be two fee tiers: next price fulfillment that creates a lower-fee tier for arbitragers, and the usual atomic exchanges for a higher fee."[^1]
-[^1]: SNXWeave, "SNXweave Weekly Recap", *https://snxweave.medium.com/?p=db1b418d623*, Medium, November 16th, 2021. November 16th, 2021	
+- The Debt Migration contract will allow migration of debt position without requiring you to burn debt but this SIP hasn't been created
+  
+  - This SIP will allow you to move a synth from L1 to L2
 
+- New [SIP-189](https://sips.synthetix.io/sips/sip-189/) was presented by Kaleb to the Spartan Council and was approved
+
+	
 ### GrantsDAO
 
-- More information on [Retroactive Public Goods project](https://medium.com/@SynthetixGrants/the-synthetix-grantsdao-retroactive-public-goods-grants-program-629ec299c4d4)
-  - Funding public goods projects after the fact, or retroactively, provides a way to maximize value in the DeFi community	
-
-- gDAO NFT project progressing after meeting with the designer and getting the basic idea for each of the Tribe concepts
+- [Retroactive Public Goods](https://medium.com/@SynthetixGrants/the-synthetix-grantsdao-retroactive-public-goods-grants-program-629ec299c4d4) Grants initiative starts December 1st.
 	
-- So far no one has responded to the [request to create](https://medium.com/@SynthetixGrants/buy-snx-to-fix-c-ratio-dapp-bd8bd351205f) a smart contract tool that enables Synthetix stakers to fix their c-ratio by buying SNX
+- The gDAO will be releasing a PDF that details the eligibility criteria for public good projects to be invited to this private side round of grant funding that will take place as part of Gitcoin Grants’ round 12
 	
-  - A discussion took place on possibly hiring a full-time dev for this project but leadership raised conerns that the gDAO might not have enough projects to justify a full-time position
+  - It will be up to the community to decide how to allocate the $50,000 of Synthetix Grants funding
 	
-  - A suggestion was put forward to use [EthernautDAO](https://ethernautdao.medium.com/introducing-the-ethernautdao-21bfca20ee80) to find potential people for this position
+  - The funding will be completed in two parts
 	
-  - grantsDAO will be looking into EthernautDAO to possibly find a developer who could work with them on a project-basi
+- Tools.Synthetix is also coming along well
 	
-- [Teleportr is currently down](https://discord.com/channels/413890591840272394/824825197546700841/909376977520164875) after the grantsDAO picked up an issue in the contract after the OE Regenesis
-  - Working on a way to decentralize Teleportr moving forward
+- Mike has been working on some dune analytics on Synthetix stakers with Core Contributor db
 	
-- New Website "Tools.Synthetix" progressing well with mockups presented to leadership
+  - This includes staking sizes, number of stakers, duration, reward claiming regularity, etc
 	
-- Guardian BiGs shared Docs update for edits from the Guardians and The 300
 	
 ### AmbassadorsDAO
+
+- Third Spartan City Hall [recording here](https://anchor.fm/synthetix/episodes/SD036---Spartan-City-Hall-3---Aelin-e1af7f3)
 	
-- Ambassadors hosted their second Spartan City Hall with Hop Protocol last week
+- 
 	
-  - The community was introduced to Chris and Lito who provided a background and overview of Hop Protocol
+- 
 	
-  - Anchor recording of the event [here](https://anchor.fm/synthetix/episodes/SD034---Spartan-City-Hall-2---Hop-Protocol-e1a75o6)
+- 
 	
-- aDAO is hoping to have the 3rd City Hall with Aelin	
+- 
 	
-- [Tracer](https://medium.com/tokemak/c-o-r-e-2-begins-tuesday-november-9th-f52ca43f0770) has acquired Toke in its treasury and now has the ability to utilize the TOKE to build partnerships through this second round of [Tokemaks C.o.R.E.2 Reactor voting](https://www.tokemak.xyz/core)
+- 	
 	
-  - Synthetix secured third place therefore receiving 20% of the Tracers voting privileges	
+- 	
 	
-- ambassadorDAO applied as delegates for $ENS governance after the recent ENS Airdrop
+- 	
 	
-  - Community members may delegate $ENS to the aDAO multi-sig to help support their mission
+
 
 ## Summary
 	
-- New [SIP-183](https://sips.synthetix.io/sips/sip-183) on the Kwenta Funding Request being drafted
+- [SIP-120](https://sips.synthetix.io/sips/sip-120) 
 	
-- New [SIP-301](https://sips.synthetix.io/sips/sip-301) to Add Synth Supply Caps
+- [SIP-182](https://sips.synthetix.io/sips/sip-182/) 
 
-- [SIP-120](https://sips.synthetix.io/sips/sip-120) experienced unexpected delay due to some minor changes that needed to be audited again.
+- [SIP-167](https://sips.synthetix.io/sips/sip-167) 
 
-- [SIP-182](https://sips.synthetix.io/sips/sip-182/) approved last week and now implemented
+- [SIP-184](https://sips.synthetix.io/sips/sip-184) 
 
-- [SIP-184](https://sips.synthetix.io/sips/sip-184) approved but still needs to be audited
+- [SIP-80](https://sips.synthetix.io/sips/sip-80/) 
 	
-- [SCCP-189](https://sips.synthetix.io/sips/sip-189/) was discussed further November 16th, 2021 and next steps towards implementation
+- [SIP-301](https://sips.synthetix.io/sips/sip-301) 
 
-- [SIP-80](https://sips.synthetix.io/sips/sip-80/) for Futuers will be on Mainnet Layer 2 very soon
+- [SIP-303](https://sips.synthetix.io/sips/sip-303) 
 
-- After these SIPS have been implemented Phase 1 of the [v2x roadmap](https://blog.synthetix.io/v2x-revisited/) will be complete.
+- [SIP-189](https://sips.synthetix.io/sips/sip-189/)
+	
+- [SCCP-148](https://sips.synthetix.io/sccp/sccp-148)
+	
+- [SIP-180](https://sips.synthetix.io/sips/sip-180)
 
 ## Additional Research
 
-- [gDAO Tweet](https://twitter.com/snxgrants/status/1460162538683961349?s=20) on the Retroactive Public Goods project
+- 
 
 <p align="center">
   <a href="http://app.boardroom.info/">
