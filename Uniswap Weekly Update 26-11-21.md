@@ -14,9 +14,6 @@
 ### <p align="center"> *New Weekly Update for Uniswap from Mark Priddy November 22nd - November 26th 2021*
 
 
-
-
-
 ## Summary
 
 - New Proposal to authorize Uniswap Labs to deploy Uniswap protocol to Polygon
@@ -29,7 +26,7 @@
   
 - Add 1 Basis Point Fee Tier (Voted Yes)
   
-- 
+- Several new and ongoing discussions
 
 ## Proposals
 
@@ -51,7 +48,6 @@
 ### Live Votes
 
 - No live votes as of Novemeber 24th, 2021
-	
 
 ### Recent Votes
 
@@ -67,7 +63,6 @@
 - 3 Community members shared support for this proposal last week in the governance forum
 	
 ## Forum Summary
-
 	
 - New proposal that would allow Uniswap (or anyone that wants to) to mint KPI options using $UNI as collateral to purchase stablecoins from the community
 	
@@ -78,9 +73,6 @@
 - New discussion on finding a simple solution to bring down the cost of gas
 
 - New comments showing support of the V2 Fee Switch discussion
-
-- 
-
 	
 ### New Discussions
 	
