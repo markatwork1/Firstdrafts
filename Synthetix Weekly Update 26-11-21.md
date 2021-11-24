@@ -75,49 +75,38 @@
 	
 ### AmbassadorsDAO
 
-- Third Spartan City Hall [recording here](https://anchor.fm/synthetix/episodes/SD036---Spartan-City-Hall-3---Aelin-e1af7f3)
+- Third Spartan City Hall with Aelin Protocol [recording here](https://anchor.fm/synthetix/episodes/SD036---Spartan-City-Hall-3---Aelin-e1af7f3)
 	
-- 
+  - Aelin is an open and permissionless set of factory contracts that enables anyone to instantiate a pool of capital that can be used to source deals within the Ethereum ecosystem
+  - The initial Aelin Council will have 5 members voted in by SNX holders
+  - More information available per [SIP-180](https://sips.synthetix.io/sips/sip-180)
 	
-- 
-	
-- 
-	
-- 
-	
-- 	
-	
-- 	
-	
-- 	
-	
-
 
 ## Summary
 	
-- [SIP-120](https://sips.synthetix.io/sips/sip-120) 
+- [SIP-120](https://sips.synthetix.io/sips/sip-120) was approved and created a new exchange function that allows users to atomically exchange synths via TWAP Uniswap oracles secured by Chainlink oracles
 	
-- [SIP-182](https://sips.synthetix.io/sips/sip-182/) 
+- [SIP-182](https://sips.synthetix.io/sips/sip-182/) released on L1
 
-- [SIP-167](https://sips.synthetix.io/sips/sip-167) 
+- [SIP-167](https://sips.synthetix.io/sips/sip-167) for L2 Bridged Governance was released, completing phase 1 of the [v2x roadmap](https://blog.synthetix.io/v2x-revisited/)
 
-- [SIP-184](https://sips.synthetix.io/sips/sip-184) 
+- [SIP-184](https://sips.synthetix.io/sips/sip-184) for Dynamic Exchange Fees approved but not released
 
-- [SIP-80](https://sips.synthetix.io/sips/sip-80/) 
+- [SIP-80](https://sips.synthetix.io/sips/sip-80/) for Synthetic Futures. There's hasn't been a lot of new information on this SIP but Dynamic Exchange Fees needs to be audited and next price fee fulfillment is necessary for it's release.
 	
-- [SIP-301](https://sips.synthetix.io/sips/sip-301) 
+- [SIP-301](https://sips.synthetix.io/sips/sip-301) still being drafted to Add Synth Supply Caps
 
-- [SIP-303](https://sips.synthetix.io/sips/sip-303) 
+- [SIP-303](https://sips.synthetix.io/sips/sip-303) Simulated Liquidity for Synthetix Exchanges approved but not released
 
-- [SIP-189](https://sips.synthetix.io/sips/sip-189/)
+- [SIP-189](https://sips.synthetix.io/sips/sip-189/) Add LUSD/sUSD Wrappr released
 	
-- [SCCP-148](https://sips.synthetix.io/sccp/sccp-148)
+- [SCCP-148](https://sips.synthetix.io/sccp/sccp-148) Increased Cap on LUSD Wrappr to 30 million sUSD On L2
 	
-- [SIP-180](https://sips.synthetix.io/sips/sip-180)
+- [SIP-180](https://sips.synthetix.io/sips/sip-180) The initial Aelin Council will have 5 members voted in by SNX holders
 
 ## Additional Research
 
-- 
+- [Cryptobriefing.com mentioned](https://cryptobriefing.com/avalanche-endures-wild-ride-amid-debate-price-action/) Kain's tweet in response to Su Zhu
 
 <p align="center">
   <a href="http://app.boardroom.info/">
