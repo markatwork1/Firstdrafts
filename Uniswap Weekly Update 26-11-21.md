@@ -4,14 +4,14 @@
   </a>
   <h1 align="center">Uniswap Weekly Update</h1>
   <p align="center">
-    November 19th, 2021
+    November 26th, 2021
   <br />
   <a href="http://app.boardroom.info/BanklessDAO"><strong>View in the Portal »</strong></a>
   <br />
   </p>
 </p>
 
-### <p align="center"> *New Weekly Update for Uniswap from Mark Priddy November 15th - November 19th 2021*
+### <p align="center"> *New Weekly Update for Uniswap from Mark Priddy November 22nd - November 26th 2021*
 
 
 
@@ -19,38 +19,38 @@
 
 ## Summary
 
-- Uniswap Community Call 14 took place November 17th, 2021
+- New Proposal to authorize Uniswap Labs to deploy Uniswap protocol to Polygon
 
-- [Web3 Jam Hackathon](https://jam.ethglobal.com/) started today November 12th and will run through November 24th
+- [Web3 Jam Hackathon](https://jam.ethglobal.com/) ended November 24th
 
-- Web3 Jam Events going on daily in the [ETHGlobal Discord](https://discord.com/invite/ethglobal)
+- Check out [ETHGlobal Discord](https://discord.com/invite/ethglobal) for the next hackathon event in January 2022
 
-- The Unit as a replacement for stablecoins
+- BED Index Discussion is ongoing
   
 - Add 1 Basis Point Fee Tier (Voted Yes)
   
-- BED Index Proposal and Quadratic Voting Discussion Ongoing
+- 
 
 ## Proposals
 
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
-| Deploy Uniswap V3 to Boba Network | Proposal Discussion | [Discuss](https://gov.uniswap.org/t/quadratic-voting/2428/4)	
+| Deploy Uniswap V3 to Polygon PoS Chain | Temperature Check | [Discuss](https://gov.uniswap.org/t/temperature-check-deploy-uniswap-v3-to-polygon-pos-chain/15058)	
 
-- "Boba Network is an Optimistic Rollup, likely launching next week, built on Optimism with added features including native fast exits, hybrid compute, and a token (OMG)."[^1]
-	
-[^1]: Uniswap, "Uniswap Governance", *https://gov.uniswap.org/t/deploy-uniswap-v3-to-boba-network/14151*, gov.uniswap.org, September 14th, 2021. November 16th, 2021
-
+- Proposal to authorize Uniswap Labs to deploy Uniswap protocol to Polygon PoS on behalf of the community.
 
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
-| Should defi platforms replace the USD as a unit of account? | Proposal Discussion | [Discuss](https://gov.uniswap.org/t/proposal-discussion-should-defi-platforms-replace-the-usd-as-a-unit-of-account/14741)
+| Community Treasury Divestment and Risk Mitigation using UMA KPI Options | Proposal Discussion | [Discuss](https://gov.uniswap.org/t/proposal-discussion-community-treasury-divestment-and-risk-mitigation-using-uma-kpi-options/15162)
 
-- New proposal discussion endorsing the idea of Uniswap Governance backing the creation of a crypto-native community-managed algorithmic unit of account as an alternative to “stable coins."	
+- "The purpose of this proposal is to initiate the process of building a KPI option using UMA’s battle tested EMP contracts (more details at the bottom) in order for the Uniswap Community Treasury (or anyone that wants to) to mint KPI options using $UNI as collateral to purchase stablecoins from the community."[^1]
+	
+[^1]: Uniswap, "Uniswap Governance", *https://gov.uniswap.org/t/proposal-discussion-community-treasury-divestment-and-risk-mitigation-using-uma-kpi-options/15162*, gov.uniswap.org, November 21st, 2021. November 24th, 2021
+
 	
 ### Live Votes
 
-- No live votes as of Novemeber 18th, 2021
+- No live votes as of Novemeber 24th, 2021
 	
 
 ### Recent Votes
@@ -58,34 +58,36 @@
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
 | Add 1 Basis Point Fee Tier | Proposal | [Yes](https://app.uniswap.org/#/vote/2/9)
-
-- During November 3rd Community Call they brought up the impact of adding 1 Basis Point Fee Tier and would it be different or impact the different scaling solutions for the blockchain	
 	
 
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
 | DEF Snapshot Proposal | Moving Assets | [No](https://gov.uniswap.org/t/moving-defs-assets-to-an-on-chain-custodial-wallet-to-bolster-security/14328)
 
+- 3 Community members shared support for this proposal last week in the governance forum
 	
 ## Forum Summary
 
 	
-- (Presenters) presented (number of topics) topics in the most recent Community Call
+- New proposal that would allow Uniswap (or anyone that wants to) to mint KPI options using $UNI as collateral to purchase stablecoins from the community
 	
   - Bed Index Discussion still active
 	
-  - Reminder that Wijuwiju creates [Uniletters](https://uniletters.substack.com/) covering governance and discussions in the Uniswap Community
-	
-  - Wijuwiju also created [Twitter List](https://twitter.com/i/lists/1455137581772034048) including all the people who work at Uniswap Labs and are the top delegators and developers
+  - Reminder that Wijuwiju creates [Uniletters](https://uniletters.substack.com/) covering governance and discussions in the Uniswap Community and [Twitter List](https://twitter.com/i/lists/1455137581772034048) including all the people who work at Uniswap Labs and are the top delegators and developers
 
-- There is currently no roadmap for the Uniswap token
+- New discussion on finding a simple solution to bring down the cost of gas
 
-- New discussion posted in Uniswap governance with community's thoughts on the first UNI airdrop
+- New comments showing support of the V2 Fee Switch discussion
 
-- Web3 Jam Hackathon is ongoing and will go through November 24th
+- 
 
 	
 ### New Discussions
+	
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
+| The Quest for Cheaper Gas | Community Question | [Discuss](https://gov.uniswap.org/t/the-quest-for-cheaper-gas/8793)	
+	
 	
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
@@ -99,17 +101,15 @@
 	
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
-| Have we strayed from the marked roadmap? | Community Question | [Discuss](https://gov.uniswap.org/t/have-we-strayed-from-the-marked-roadmap/14976)
-
-- Currently, there is no road map
-	
-| Name          | Category      | Link   |
-| ------------- |:-------------:| :-----:|
 | Thoughts on the first Airdrop | Community Question | [Discuss](https://gov.uniswap.org/t/what-do-you-think-of-the-initial-airdrop/11164)
 
 	
 ### Ongoing Discussions
 
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
+| Fee Switch V2 should be turned on | Temperature Check | [Discuss](https://gov.uniswap.org/t/temperature-check-fee-switch-v2-should-be-turned-on/13537/21)	
+	
 	
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
@@ -119,12 +119,18 @@
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
 | Bed INDEX Proposal | Governance Tokens | [Discuss](https://gov.uniswap.org/t/bed-index-proposal/14562)
+	
+	
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
+| UNI should become an oracle token | Proposal Discussion | [Discuss](https://gov.uniswap.org/t/uni-should-become-an-oracle-token/11988/91)
+
+- Community recently asked if this proposal is still active
 
 
 ## Other Updates
 
-- [Tweet from Uniswap Labs](https://twitter.com/Uniswap/status/1458902700259786756?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet) asking what features everyone would like to see in the Uniswap interface
-  
+- [FXStreet Article](https://www.fxstreet.com/cryptocurrencies/news/uniswap-targets-36-first-before-uni-makes-new-all-time-highs-202110072112) mentioning the recent proposal to deploy Uniswap on Polygon
   
   
   
