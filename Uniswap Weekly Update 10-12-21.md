@@ -4,7 +4,7 @@
   </a>
   <h1 align="center">Uniswap Weekly Update</h1>
   <p align="center">
-    December 3rd, 2021
+    December 10th, 2021
   <br />
   <a href="http://app.boardroom.info/BanklessDAO"><strong>View in the Portal »</strong></a>
   <br />
