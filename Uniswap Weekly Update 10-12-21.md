@@ -21,8 +21,6 @@
 - Check out [ETHGlobal Discord](https://discord.com/invite/ethglobal) for the next hackathon event in January 2022
 
 - Reminder that Wijuwiju creates [Uniletters](https://uniletters.substack.com/) covering governance and discussions in the Uniswap Community and [Twitter List](https://twitter.com/i/lists/1455137581772034048) including all the people who work at Uniswap Labs and are the top delegators and developers
-  
-- 
 
 ## Proposals
   
@@ -42,7 +40,7 @@
 
 - "The purpose of this proposal is to initiate the process of building a KPI option using UMA’s battle tested EMP contracts in order for the Uniswap Community Treasury (or anyone that wants to) to mint KPI options using $UNI as collateral to purchase stablecoins from the community."[^1]
 	
-[^1]: Uniswap, "Uniswap Governance", *https://gov.uniswap.org/t/proposal-discussion-community-treasury-divestment-and-risk-mitigation-using-uma-kpi-options/15162*, gov.uniswap.org, November 21st, 2021. November 24th, 2021
+[^1]: Uniswap, "Uniswap Governance", *https://gov.uniswap.org/t/proposal-discussion-community-treasury-divestment-and-risk-mitigation-using-uma-kpi-options/15162*, gov.uniswap.org, November 21st, 2021. December 9th, 2021
 
 	
 ### Live Votes
@@ -100,6 +98,11 @@
 	
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
+| Community Governance Process | Governance-Meta | [Discuss](https://gov.uniswap.org/t/community-governance-process/7732)
+	
+	
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
 | Uniswap as a world’s first cryptostate | Proposal Discussion | [Discuss](https://gov.uniswap.org/t/uniswap-as-a-worlds-first-cryptostate/7001)	
 		
 	
@@ -129,13 +132,11 @@
 
 - "The goal is to establish a neutral, effective and sustainable way for the Uniswap community to crowd-source the information it needs, as well as engage and onboard new community members."[^2]
 	
-[^2]: Uniswap, "Uniswap Governance", *https://gov.uniswap.org/t/a-community-analytics-program-for-uniswap/14057*, gov.uniswap.org, September 7th, 2021. December 2nd, 2021
+[^2]: Uniswap, "Uniswap Governance", *https://gov.uniswap.org/t/a-community-analytics-program-for-uniswap/14057*, gov.uniswap.org, September 7th, 2021. December 9th, 2021
 
 ## Other Updates
 
 - Next Uniswap Community Call #16 will take place on December 15th, 2021. 
-  
-- 
   
   <p align="center">
   <a href="http://app.boardroom.info/">
