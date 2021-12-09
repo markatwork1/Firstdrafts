@@ -15,6 +15,8 @@
 
 
 ## Summary
+	
+- Next Uniswap Community Call #16 will take place on December 15th, 2021 in the [Uniswap Discord](https://discord.gg/xC9X5FQYC8)
 
 - New Proposal to authorize Uniswap Labs to deploy Uniswap protocol to Polygon
 
@@ -136,8 +138,14 @@
 
 ## Other Updates
 
-- Next Uniswap Community Call #16 will take place on December 15th, 2021. 
+- Uniswap mentions in 3 publications this week
+	
+ - [FXStreet](https://www.fxstreet.com/cryptocurrencies/news/uniswap-price-prediction-uni-at-risk-of-35-correction-202112080116)
   
+ - [The Motley Fool](https://www.fool.com/investing/2021/12/06/why-polygon-avalanche-and-uniswap-traded-higher-to/)
+	
+ - [Marketwatch](https://www.marketwatch.com/story/most-big-cryptocurrencies-fall-on-uniswap-litecoin-drops-01639062062-84c9a4141ae1)
+	
   <p align="center">
   <a href="http://app.boardroom.info/">
     <img src="https://i.ibb.co/PFcchnQ/boardroom.png" alt="Boardroom Logo" width="450" />
