@@ -78,28 +78,22 @@
 	
 - New gDAO website still being worked on but should be available by the end of the year 
 	
-- 
-	
--
-	
--
+- Reminder that the recent Flashloan tool used lets you sell off some of your SNX for sUSD so you can pay off some of your debt and eventually get unstaked. If all of your SNX is staked and zero SNX is transferable, then there is zero SNX that can be sold. You can ONLY take a flashloan out against transferable SNX
 	
 	
 ### AmbassadorsDAO
 
-- https://sips.synthetix.io/sccp/sccp-155/
+- Millie submitted an [SCCP](https://sips.synthetix.io/sccp/sccp-155/) to modify the Ambassador Council mandate for the upcoming election. 
 	
-- https://sips.synthetix.io/sips/sip-157/
+  - The most notable change will raise the Council seats to 4, while allowing for a 3/4 Gnosis Safe Multi-Sig. 
+  - The SSCP also reinstates the need for a technical role on the Ambassador Council as opposed to a clause in [SIP-157](https://sips.synthetix.io/sips/sip-157/) excluding the expectation for a technical role.
 	
-- https://anchor.fm/synthetix/episodes/SD039---Spartan-City-Hall-4---Optimism-e1b60p2
+- Co-founders of Optimism Kevin and Ben [answer several of the community’s questions as well as discuss](https://anchor.fm/synthetix/episodes/SD039---Spartan-City-Hall-4---Optimism-e1b60p2) the recent regenesis and the future of Optimism ina recent Spartan City Hall
 	
 - The nomination period for all DAO positions is open for another week
   
   - To be on the ballot for the Spartan, Treasury, Grants, or Ambassador Council you must have your nomination in before the end of the day UTC time Tuesday December 14th. Voting will begin immediately following the end of the nomination period and will go through the end of the day UTC time Tuesday December 21st
-	
--
-	
--
+
 
 ## Summary	
 
