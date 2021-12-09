@@ -140,11 +140,11 @@
 
 - Uniswap mentions in 3 publications this week
 	
- - [FXStreet](https://www.fxstreet.com/cryptocurrencies/news/uniswap-price-prediction-uni-at-risk-of-35-correction-202112080116)
+  - [FXStreet](https://www.fxstreet.com/cryptocurrencies/news/uniswap-price-prediction-uni-at-risk-of-35-correction-202112080116)
   
- - [The Motley Fool](https://www.fool.com/investing/2021/12/06/why-polygon-avalanche-and-uniswap-traded-higher-to/)
+  - [The Motley Fool](https://www.fool.com/investing/2021/12/06/why-polygon-avalanche-and-uniswap-traded-higher-to/)
 	
- - [Marketwatch](https://www.marketwatch.com/story/most-big-cryptocurrencies-fall-on-uniswap-litecoin-drops-01639062062-84c9a4141ae1)
+  - [Marketwatch](https://www.marketwatch.com/story/most-big-cryptocurrencies-fall-on-uniswap-litecoin-drops-01639062062-84c9a4141ae1)
 	
   <p align="center">
   <a href="http://app.boardroom.info/">
