@@ -31,6 +31,7 @@
 ### Spartan Council and Core Contributor Committee
 
 - New Spartan Council Election is active
+	
   - "If you plan to run for Spartan Council this epoch and would like to participate in the panel, please have your nomination in BEFORE tomorrow at 22:00 UTC, and tag ProofOfCake in the spartan-council-nominations channel in the Synthetix Discord."[^1]
 	
 [^1]: SNXWeave, "SNXweave Weekly Recap", *https://snxweave.medium.com/snxweave-weekly-recap-53f3d05f5830*, Medium, December 7th, 2021. December 9th, 2021
