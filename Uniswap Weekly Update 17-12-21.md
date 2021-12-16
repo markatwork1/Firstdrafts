@@ -56,7 +56,7 @@
 
 - The Polygon team proposes to authorize Uniswap Labs to deploy Uniswap protocol to Polygon PoS on behalf of the community.[^2]
 	
-[^2]: Uniswap, "Uniswap Governance", *https://app.uniswap.org/#/vote/2/10*, app.uniswap.org, December 16th, 2021. December 16th, 2021
+[^2]: Uniswap, "Uniswap App", *https://app.uniswap.org/#/vote/2/10*, app.uniswap.org, December 16th, 2021. December 16th, 2021
 
 ### Recent Votes
 
