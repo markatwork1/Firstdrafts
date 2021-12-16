@@ -18,9 +18,12 @@
 	
 [December 14th Recap Blog](https://snxweave.medium.com/snxweave-weekly-recap-53f3d05f5830)
 
-[On Spotify](https://open.spotify.com/episode/6Om5sRth9AzVW7RmIb7glh)
+[On Spotify](https://open.spotify.com/episode/2Xaikv3JAf75WTEkBYkBuO)
 
-- Blog Post for the next [Synthetix Community Call](https://blog.synthetix.io/come-join-us-on-dec-15-dec-16-for-the-next-synthetix-community-governance-call/)
+- Starting December 16th, 2021 afternoon, the [Alhena Release](https://blog.synthetix.io/the-alhena-release/) will begin
+
+- Spartan City Hall took place 3:30PM Central December 16th, 2021 with Universe.xyz as guest speaker to discuss their platform and general state of NFTs
+  - XYZ is an upcomign NFT marketplace on Optimism
 
 - Rewards are now claimable [here](https://synthetixembassy.io/gpp) by all addresses who delegated $UNI for the Governance Participation Program
 	
@@ -29,96 +32,75 @@
 ## Governance
 
 ### Spartan Council and Core Contributor Committee
+	
+- SNXWeave published an election-special Spartan Council panel podcast [here](https://anchor.fm/snxweave/episodes/Spartan-Council-Panel---December-Election-Special-e1bm38g)
+  - Voting opened December 16th, 2021 and will close one week from this day.
 
-- New Spartan Council Election is active
+- The [LUSD wrappr](https://sips.synthetix.io/sccp/sccp-156/) parameters have been updated. Now, the wrappr cap has increased to 75 million sUSD, and the minting fee has been increased to 10 basis points 
 	
-  - "If you plan to run for Spartan Council this epoch and would like to participate in the panel, please have your nomination in BEFORE tomorrow at 22:00 UTC, and tag ProofOfCake in the spartan-council-nominations channel in the Synthetix Discord."[^1]
-	
-[^1]: SNXWeave, "SNXweave Weekly Recap", *https://snxweave.medium.com/snxweave-weekly-recap-53f3d05f5830*, Medium, December 7th, 2021. December 9th, 2021
-	
--  LUSD/sUSD wrappr has been added to L1 with [SIP-190](https://sips.synthetix.io/sips/sip-190/) with parameter changes in [SIP-151](https://sips.synthetix.io/sccp/sccp-151/)
-	
-  - This introduced an LUSD Wrappr that mints sUSD for each LUSD deposited, with no fee
-	
-  - Burn fee on ETH has also been lowered to zero and the cap decreased
+- [Liquidation Mechanism upgrade](https://sips.synthetix.io/sips/sip-302/) will be implemented once [Debt Shares](https://sips.synthetix.io/sips/sip-185/) is ready
   
-- [SCCP-153](https://sips.synthetix.io/sccp/sccp-153/) was implemented raising the cap on atomic swaps per block to 1 million sUSD
+  - There have been some concerns about liquidity on L2 that led to this decision
+  
+  - "Debt Shares is actually ready, but unfortunately won’t be audited until early next year, as the auditors are extremely backed up this month. And since the liquidation mechanism SIP has already been presented, it can pretty much be implemented as soon as Debt Shares is ready. IF the audit can somehow be accelerated, that would allow for the new liquidation mechanism to potentially be rolled out before the end of the year."[^1]
 	
-  - In the near future, this will be raised again to accomodate large trades without a fee reclamation delay.
+[^1]: SNXWeave, "SNXweave Weekly Recap", *https://snxweave.medium.com/snxweave-weekly-recap-5efc04a5be14*, Medium, December 14th, 2021. December 16th, 2021
 	
-- [SIP-192](https://sips.synthetix.io/sips/sip-192/) implemented with the [Atria Release](https://blog.synthetix.io/the-atria-release/) to fix the error where fees from the Wrappr Factory are double-counted 
-	
-  - $257,000 repaid to Synthetix fee address after an error where stakers claimed a higher amount than they should have been able to, resulting in a loss of funds in the fee payment address
-	
-- [SIP-188](https://sips.synthetix.io/sips/sip-188/) and [SIP-180](https://sips.synthetix.io/sips/sip-180) were presented recently
-	
-  - SIP-188 will list a synth that tracks and mirrors the ETH:BTC price ratio on L1.
-  - The only difference in functionality of this synth will be that it trades at the ratio of prices from multiple Chainlink feeds — ETH:USD and BTC:USD, or inverse of BTC:ETH
-	
-  - SIP-180 proposes the creation of Aelin Protocol
-  - Aelin is an open and permissionless set of factory contracts that enables anyone to instantiate a pool of capital that can be used to source deals within the Ethereum ecosystem
-  - [Recording available here](https://anchor.fm/synthetix/episodes/SD036---Spartan-City-Hall-3---Aelin-e1af7f3) with Aelin in a Spartan City Hall recap.
-  - This SIP was also voted on and approved, with 6 Council members voting in favor and none against
-	
-  - "Aelin is a new decentralized deal coordination protocol that will leverage the established decentralized governance framework of Synthetix to launch this new protocol in a fair and transparent manner. 30% of the initial supply of AELIN tokens will be released initially. Of this 30%, half (so, 15%) will be airdropped to SNX stakers on L1 and L2 as a sign of appreciation for the effort that has gone into Synthetix governance enabling Aelin to launch via this SIP."[^2]
-	
-[^2]: SNXWeave, "SNXweave Weekly Recap", *https://snxweave.medium.com/snxweave-weekly-recap-53f3d05f5830*, Medium, December 7th, 2021. December 9th, 2021
-		
-	
+			
 ### GrantsDAO
 
-- [Twitter Announcement](https://twitter.com/snxgrants/status/1465949107386781698) of the Retroactive Public Goods Grants (RPGG) initiative going live last week
+- The [Retroactive Public Goods Grants](https://medium.com/@SynthetixGrants/the-synthetix-grantsdao-retroactive-public-goods-grants-program-629ec299c4d4) (RPGG) initiative with Gitcoin will be ending on December 16th
 	
-- Twitter Space event with Grants Council and Gitcoin took place Wednesday November 8th, 2021
+  - List of projects [here](https://gitcoin.co/grants/explorer?page=1&limit=12&me=false&sort_option=weighted_shuffle&collection_id=false&network=mainnet&state=active&profile=false&sub_round_slug=false&collections_page=1&grant_regions=&grant_types=&grant_tags=Synthetix&tenants=&idle=false&featured=true&round_type=false&utm_source=gitcoin&utm_medium=email&utm_campaign=gr12_launch&tab=grants) which the Council will match donations
 	
-- Grants Council partnered with Gitcoin to put forth a private Grants funding round that will go towards public good projects that have benefitted the larger DeFi community
+- Youtube video [here](https://www.youtube.com/watch?v=yv88_iWNiBQ&t=3s) with more information in a recorded livestream with the Council and Gitcoin
 	
-  - [Eligibility Criteria Here](https://medium.com/@SynthetixGrants)
+  - During the [livestream](https://www.youtube.com/watch?v=yv88_iWNiBQ&t=3s), CT, cyberduck, and Mike got to speak with unvetica.eth, the community liaison at Gitcoin
 	
-- Another AMA event announcement will be posted soon with members from the Synthetix Ambassadors DAO, Optimism, and the Universe.xyz
+-  [Coordinape](https://coordinape.com/) is a new initiative that Mike from the Grants Council is leading
 	
-- New gDAO website still being worked on but should be available by the end of the year 
+  - This is going to be a site where groups and communities can join to reward contributors, incentivize participation, and manage resources within the group
 	
-- Reminder that the recent Flashloan tool used lets you sell off some of your SNX for sUSD so you can pay off some of your debt and eventually get unstaked. If all of your SNX is staked and zero SNX is transferable, then there is zero SNX that can be sold. You can ONLY take a flashloan out against transferable SNX
+- Grants Council provided another update on the NFT project with [Universe.xyz](https://universe.xyz/) 
+
+  - Once the graphics are finalized, Universe.xyz and the Council will begin to work on the contract side
 	
+  - The aim is to finalize a version of an NFT with a frame and a background that can be replicated for all generated sets thereon.
+
+  - Universe.xyz will be the first marketplace for NFTs on Optimism
 	
 ### AmbassadorsDAO
 
-- Millie submitted an [SCCP](https://sips.synthetix.io/sccp/sccp-155/) to modify the Ambassador Council mandate for the upcoming election. 
+- December 8th, 2021 [dHedge](https://www.dhedge.org/) was the guest in another [Spartan City Hall](https://anchor.fm/synthetix/episodes/SD040---Spartan-City-Hall-5---dHEDGE-e1bdkn0)
+  - dHEDGE is a non-custodial decentralized asset management platform that links investors and fund managers together in a decentralized way to enable efficient fund management
 	
-  - The most notable change will raise the Council seats to 4, while allowing for a 3/4 Gnosis Safe Multi-Sig. 
-  - The SSCP also reinstates the need for a technical role on the Ambassador Council as opposed to a clause in [SIP-157](https://sips.synthetix.io/sips/sip-157/) excluding the expectation for a technical role.
+  - Cyrus, JakeyBoi, Taminater, and Edson gave a high-level overview of dHEDGE and answered some questions
 	
-- Co-founders of Optimism Kevin and Ben [answer several of the community’s questions as well as discuss](https://anchor.fm/synthetix/episodes/SD039---Spartan-City-Hall-4---Optimism-e1b60p2) the recent regenesis and the future of Optimism ina recent Spartan City Hall
+  - "The guests explained that dHEDGE is a little over a year old, and was made possible via Synthetix — being able to trade and hold all of the synths available on L1. Their launch last October brought a lot of managers and investors, who were keen on being able to utilize the zero-slippage feature, which was especially attractive for larger trades."[^2]
 	
-- The nomination period for all DAO positions is open for another week
-  
-  - To be on the ballot for the Spartan, Treasury, Grants, or Ambassador Council you must have your nomination in before the end of the day UTC time Tuesday December 14th. Voting will begin immediately following the end of the nomination period and will go through the end of the day UTC time Tuesday December 21st
+[^2]: SNXWeave, "SNXweave Weekly Recap", *https://snxweave.medium.com/snxweave-weekly-recap-5efc04a5be14*, Medium, December 14th, 2021. December 16th, 2021	
+
+  - In response to high gas usage, they created a Layer 1.5 solution which is a way to do computations off chain, so the entry and exit into dHEDGE pools was significantly cheaper and gas fees were brought down to Uniswap prices
+
+  - Gas fees continued to climb, which led to dHedge v2
+	
+- Starting Decemeber 21st, Optimism is hosting a [dHedge trading competition](https://dhedge.ghost.io/trading-comp/) with $100,000 in prizes
 
 
 ## Summary	
 
-- [SIP-190](https://sips.synthetix.io/sips/sip-190/) implemented and added LUSD/sUSD to L1
+- [SCCP-156](https://sips.synthetix.io/sccp/sccp-156/) LUSD wrappr increased to 75 million sUSD, and the minting fee has been increased to 10 basis points 
 
-- [SIP-151](https://sips.synthetix.io/sccp/sccp-151/) added alongside SIP-190 which included Wrappr Parameter Changes (L1)
+- [SIP-302](https://sips.synthetix.io/sips/sip-302/) is the Liquidation Mechanism upgrade and will be implemented once SIP-185 for [Debt Shares](https://sips.synthetix.io/sips/sip-185/) is ready
 
-- [SIP-153](https://sips.synthetix.io/sccp/sccp-153/) implemented which increased Volume Cap on Atomic Exchanges
-  
-- [SIP-192](https://sips.synthetix.io/sips/sip-192/) implented with the Atria release which added a Fee Pool Accounting Error Fix and Reimbursement
-  
-- [SIP-188](https://sips.synthetix.io/sips/sip-188) was presented to Add sETH/BTC synth still in feasibility
-  
-- [SIP-180](https://sips.synthetix.io/sips/sip-180) was also presented The initial [Aelin](https://anchor.fm/synthetix/episodes/SD036---Spartan-City-Hall-3---Aelin-e1af7f3) Council will have 5 members voted in by SNX holders 
-  
-- [SCCP-155](https://sips.synthetix.io/sccp/sccp-155/) Ambassador Council Modification
-
-- [SIP-157](https://sips.synthetix.io/sips/sip-157/) ambassadorDAO Mandate
-  - There was a clause in this SIP that excluded any expectation of technical skills related to smart contracts. However, since Ambassador Council has matured with initiatives such as the Governance Participation Program, a technical role within the Council is necessary.
+- [SIP-185](https://sips.synthetix.io/sips/sip-185/) for Debt Shares still in review
+ 
 
 ## Additional Research
 
--  [Bloomberg Atricle](https://www.bloomberg.com/news/articles/2021-12-06/crypto-crash-weights-on-defi-tokens-already-on-downward-spiral) mentioning Synthetix among other top cryptocurrencies
-  - Mainstream FUD around the recent dips
+-  [Cryptoslate article mention](https://cryptoslate.com/prominent-crypto-investor-speculates-why-terras-stablecoin-ust-triumphed-over-synthetix-susd/) discussing why Terra's UST "triumphed" over Synthetix
+	
+- [Proposal discussion](https://forum.dforce.network/t/proposal-to-list-susd-on-optimistic-ethereum/730) to List sUSD on Optimistic Ethereum
 
 <p align="center">
   <a href="http://app.boardroom.info/">
