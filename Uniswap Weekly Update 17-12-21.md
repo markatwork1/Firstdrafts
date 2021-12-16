@@ -17,17 +17,20 @@
 ## Summary
 	
 - Uniswap Community Call #16 took place on December 15th, 2021 in the [Uniswap Discord](https://discord.gg/xC9X5FQYC8)
+	
   - Two topics were presented: Team member from Perpetual Protcol (perp.com) spoke as well as username whalegoddess on Uniswap Governance Research
 
-- New Proposal to authorize Uniswap Labs to deploy Uniswap protocol to Polygon
+- Uniswap to deploy on Polygon in the coming weeks
 
 - Check out [ETHGlobal Discord](https://discord.com/invite/ethglobal) for the next hackathon event in January 2022
 
 - Reminder that Wijuwiju creates [Uniletters](https://uniletters.substack.com/) covering governance and discussions in the Uniswap Community and [Twitter List](https://twitter.com/i/lists/1455137581772034048) including all the people who work at Uniswap Labs and are the top delegators and developers
 
 ## Proposals
-  
-- No new proposals as of December 9th, 2021
+	
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
+| Support Izumi Finance as the official Uniswap V3 Liquidity Mining Platform | Temperature Check | [Discuss](https://gov.uniswap.org/t/temperature-check-support-izumi-finance-as-the-official-uniswap-v3-liquidity-mining-platform/15573)
 
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
@@ -35,7 +38,6 @@
 
 - Updated from Proposal to Consensus Check
 - Proposal to authorize Uniswap Labs to deploy Uniswap protocol to Polygon PoS on behalf of the community.
-- Discussed in the second half of Uniswap's Community Call #15 December 1st, 2021
 
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
@@ -43,12 +45,18 @@
 
 - "The purpose of this proposal is to initiate the process of building a KPI option using UMA’s battle tested EMP contracts in order for the Uniswap Community Treasury (or anyone that wants to) to mint KPI options using $UNI as collateral to purchase stablecoins from the community."[^1]
 	
-[^1]: Uniswap, "Uniswap Governance", *https://gov.uniswap.org/t/proposal-discussion-community-treasury-divestment-and-risk-mitigation-using-uma-kpi-options/15162*, gov.uniswap.org, November 21st, 2021. December 9th, 2021
+[^1]: Uniswap, "Uniswap Governance", *https://gov.uniswap.org/t/proposal-discussion-community-treasury-divestment-and-risk-mitigation-using-uma-kpi-options/15162*, gov.uniswap.org, November 21st, 2021. December 16th, 2021
 
 	
 ### Live Votes
+	
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
+| GFX Labs is submitting Polygon's governance proposal to deploy Uniswap v3 to Polygon on their behalf | Proposal | [Vote](https://app.uniswap.org/#/vote/2/10)
 
-- No live votes as of December 9th, 2021
+- The Polygon team proposes to authorize Uniswap Labs to deploy Uniswap protocol to Polygon PoS on behalf of the community.[^2]
+	
+[^2]: Uniswap, "Uniswap Governance", *https://app.uniswap.org/#/vote/2/10*, app.uniswap.org, December 16th, 2021. December 16th, 2021
 
 ### Recent Votes
 
@@ -72,6 +80,7 @@
 
 	
 ### New Discussions
+		
 	
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
@@ -98,6 +107,11 @@
 
 	
 ### Ongoing Discussions
+	
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
+| Deploy Uniswap V3 on AVAX | Proposal | [Discuss](https://gov.uniswap.org/t/temperature-check-deploy-uniswap-v3-on-avax/14218)
+	
 	
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
@@ -133,19 +147,17 @@
 | ------------- |:-------------:| :-----:|
 | A community analytics program for Uniswap | Community Discussion | [Discuss](https://gov.uniswap.org/t/a-community-analytics-program-for-uniswap/14057)
 
-- "The goal is to establish a neutral, effective and sustainable way for the Uniswap community to crowd-source the information it needs, as well as engage and onboard new community members."[^2]
+- "The goal is to establish a neutral, effective and sustainable way for the Uniswap community to crowd-source the information it needs, as well as engage and onboard new community members."[^3]
 	
-[^2]: Uniswap, "Uniswap Governance", *https://gov.uniswap.org/t/a-community-analytics-program-for-uniswap/14057*, gov.uniswap.org, September 7th, 2021. December 9th, 2021
+[^3]: Uniswap, "Uniswap Governance", *https://gov.uniswap.org/t/a-community-analytics-program-for-uniswap/14057*, gov.uniswap.org, September 7th, 2021. December 9th, 2021
 
 ## Other Updates
 
-- Uniswap mentions in 3 publications this week
+- [Marketwatch article](https://www.marketwatch.com/story/largest-cryptocurrencies-drop-on-uniswap-bitcoin-declines-01639666864-55784bcb5a30) mention of Uniswap
+
+- [Tweet from Vance Spencer](https://twitter.com/pythianism/status/1470818383054524416) praising Uniswap and commenting on deflation
 	
-  - [FXStreet](https://www.fxstreet.com/cryptocurrencies/news/uniswap-price-prediction-uni-at-risk-of-35-correction-202112080116)
-  
-  - [The Motley Fool](https://www.fool.com/investing/2021/12/06/why-polygon-avalanche-and-uniswap-traded-higher-to/)
-	
-  - [Marketwatch](https://www.marketwatch.com/story/most-big-cryptocurrencies-fall-on-uniswap-litecoin-drops-01639062062-84c9a4141ae1)
+- Mihalo Bjelic from Polygon shows supports for Polygon in the [Uniswap governance forum](https://gov.uniswap.org/t/governance-proposal-up010-deploy-uniswap-v3-to-polygon-pos-chain/15459) and [Twitter](https://twitter.com/MihailoBjelic/status/1471448037998403584)
 	
   <p align="center">
   <a href="http://app.boardroom.info/">
