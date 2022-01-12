@@ -4,7 +4,7 @@
   </a>
   <h1 align="center">Uniswap Weekly Update</h1>
   <p align="center">
-    January 6th, 2022
+    January 14th, 2022
   <br />
   <a href="http://app.boardroom.info/BanklessDAO"><strong>View in the Portal »</strong></a>
   <br />
@@ -65,6 +65,10 @@
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
 | Should Uniswap Provide Voltz with v3 Additional Use Grant | Temperature Check | [Discuss](https://gov.uniswap.org/t/should-uniswap-provide-voltz-with-v3-additional-use-grant/15669)  
+	
+- This was heavily discussed in January 12th, 2022 Community Call #18 with members of the Voltz team
+
+- Voltz will formally request permission from Uniswap to make use of the concentrated liquidity mechanism and in return will provide Uniswap with 1% of Voltz tokens, not yet in ideation.
 	
   
 | Name          | Category      | Link   |
